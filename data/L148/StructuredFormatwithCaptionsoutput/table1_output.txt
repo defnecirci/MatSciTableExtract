@@ -1,0 +1,242 @@
+[
+    {
+        "sample_id": "neat epoxy",
+        "matrix_name": "epoxy",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "free-space length": {
+                "value": 185,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "characteristic DBS": {
+                "value": 63.2,
+                "unit": "%",
+                "conditions": []
+            },
+            "3-parameter Weibull scale factor": {
+                "value": 66,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter Weibull shape factor": {
+                "value": 1.4,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter Weibull location": {
+                "value": 119,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-parameter Weibull scale factor": {
+                "value": 187,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-parameter Weibull shape factor": {
+                "value": 4.2,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "1 wt% bare SiO2",
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "1%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "free-space length": {
+                "value": 900,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "characteristic DBS": {
+                "value": 63.2,
+                "unit": "%",
+                "conditions": []
+            },
+            "3-parameter Weibull scale factor": {
+                "value": 83,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter Weibull shape factor": {
+                "value": 1.6,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter Weibull location": {
+                "value": 99,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-parameter Weibull scale factor": {
+                "value": 192,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-parameter Weibull shape factor": {
+                "value": 4.4,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "2 wt% SiO2- PGMA",
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA",
+        "properties": {
+            "free-space length": {
+                "value": 250,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "characteristic DBS": {
+                "value": 63.2,
+                "unit": "%",
+                "conditions": []
+            },
+            "3-parameter Weibull scale factor": {
+                "value": 84,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter Weibull shape factor": {
+                "value": 1.4,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter Weibull location": {
+                "value": 129,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-parameter Weibull scale factor": {
+                "value": 228,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-parameter Weibull shape factor": {
+                "value": 3.7,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "2 wt% SiO2- PGMA-ferro",
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA-ferro",
+        "properties": {
+            "free-space length": {
+                "value": 550,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "characteristic DBS": {
+                "value": 63.2,
+                "unit": "%",
+                "conditions": []
+            },
+            "3-parameter Weibull scale factor": {
+                "value": 112,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter Weibull shape factor": {
+                "value": 1.4,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter Weibull location": {
+                "value": 124,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-parameter Weibull scale factor": {
+                "value": 252,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-parameter Weibull shape factor": {
+                "value": 3.4,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "2 wt% SiO2- PGMA-thio",
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA-thio",
+        "properties": {
+            "free-space length": {
+                "value": 250,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "characteristic DBS": {
+                "value": 63.2,
+                "unit": "%",
+                "conditions": []
+            },
+            "3-parameter Weibull scale factor": {
+                "value": 134,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter Weibull shape factor": {
+                "value": 1.9,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter Weibull location": {
+                "value": 132,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-parameter Weibull scale factor": {
+                "value": 277,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-parameter Weibull shape factor": {
+                "value": 4.3,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    }
+]

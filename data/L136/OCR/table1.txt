@@ -1,0 +1,27 @@
+
+****** Result for Image/Page 1 ******
+I Table 1. Properties of UV cured samples.
+Cured samplea)
+CE + 5 wt.-% AgSbF6
+CE + 10 wt.-% AgSbFo
+CE + 20 wt.-% AgSbF6
+Epoxy group conversion»
+%
+82
+80
+87
+Gel contents)
+%
+98
+100
+98
+Tad)
+°C
+182
+170
+156
+Absorption maximum®)
+nm
+400
+410
+415

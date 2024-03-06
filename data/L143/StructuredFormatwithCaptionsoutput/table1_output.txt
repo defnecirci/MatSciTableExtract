@@ -1,0 +1,167 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "saturated moisture content at 25 \u00b0C 100% rh": {
+                "value": 0.01,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 50 \u00b0C 100% rh": {
+                "value": 0.02,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 80 \u00b0C 100% rh": {
+                "value": 0.04,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 50 \u00b0C 75% rh": {
+                "value": "not specified",
+                "unit": "wt%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "VS",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "saturated moisture content at 25 \u00b0C 100% rh": {
+                "value": 0.22,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 50 \u00b0C 100% rh": {
+                "value": 0.35,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 80 \u00b0C 100% rh": {
+                "value": 1.05,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 50 \u00b0C 75% rh": {
+                "value": 0.05,
+                "unit": "wt%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "UN",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "saturated moisture content at 25 \u00b0C 100% rh": {
+                "value": 0.28,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 50 \u00b0C 100% rh": {
+                "value": 0.38,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 80 \u00b0C 100% rh": {
+                "value": 1.19,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 50 \u00b0C 75% rh": {
+                "value": 0.07,
+                "unit": "wt%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "XLPE",
+        "filler_name": "VS",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "12.5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "saturated moisture content at 25 \u00b0C 100% rh": {
+                "value": 0.86,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 50 \u00b0C 100% rh": {
+                "value": 1.29,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 80 \u00b0C 100% rh": {
+                "value": 4.06,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 50 \u00b0C 75% rh": {
+                "value": 0.14,
+                "unit": "wt%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "XLPE",
+        "filler_name": "UN",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "12.5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "saturated moisture content at 25 \u00b0C 100% rh": {
+                "value": 0.9,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 50 \u00b0C 100% rh": {
+                "value": 1.4,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 80 \u00b0C 100% rh": {
+                "value": 4.79,
+                "unit": "wt%",
+                "conditions": []
+            },
+            "saturated moisture content at 50 \u00b0C 75% rh": {
+                "value": 0.17,
+                "unit": "wt%",
+                "conditions": []
+            }
+        }
+    }
+]

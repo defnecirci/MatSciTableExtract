@@ -1,0 +1,62 @@
+
+****** Result for Image/Page 1 ******
+Table 1. The free-space length, Lj, 63.2% characteristic DBS and its 95%
+confidence interval derived from the 3-parameter Weibull; the scale factor,
+a, shape factor, B; and location, t from the 3-parameter and 2-parameter
+Weibull fits for each composite
+Sample
+neat epoxy
+1 wt% bare SiOz
+2 wt% SiOz-
+PGMA
+2 wt% SiOz-
+PGMA-ferro
+2 wt% SiO,-
+PGMA-thio
+‡10nm
+NA
+900
+250
+550
+250
+63%
+185
+182
+213
+235
+266
+22
+29
+24
+3-parameter
+a
+66
+83
+84
+1.4
+1.6
+1.4
+35
+112
+1.4
+24
+134
+1.9
+t
+119
+99
+129
+124
+132
+2-Parameter
+B
+187
+192
+228
+4.2
+4.4
+3.7
+252
+3.4
+277
+4.3

@@ -1,0 +1,77 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "PVDF",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "melting enthalpy": {
+                "value": 27.17,
+                "unit": "J/g"
+            },
+            "glass transition temperature": {
+                "value": 161.50,
+                "unit": "°C"
+            },
+            "degree of crystallinity": {
+                "value": 25.95,
+                "unit": "%"
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PVDF",
+        "filler_name": "BT",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "melting enthalpy": {
+                "value": 21.57,
+                "unit": "J/g"
+            },
+            "glass transition temperature": {
+                "value": 160.85,
+                "unit": "°C"
+            },
+            "degree of crystallinity": {
+                "value": 28.12,
+                "unit": "%"
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "PVDF",
+        "filler_name": "h-BT",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "melting enthalpy": {
+                "value": 22.60,
+                "unit": "J/g"
+            },
+            "glass transition temperature": {
+                "value": 161.63,
+                "unit": "°C"
+            },
+            "degree of crystallinity": {
+                "value": 29.48,
+                "unit": "%"
+            }
+        }
+    }
+]

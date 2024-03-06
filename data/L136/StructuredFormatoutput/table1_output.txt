@@ -1,0 +1,101 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "CE",
+        "filler_name": "AgSbF6",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "epoxy group conversion": {
+                "value": 82,
+                "unit": "%",
+                "conditions": []
+            },
+            "gel content": {
+                "value": 98,
+                "unit": "%",
+                "conditions": []
+            },
+            "glass transition temperature": {
+                "value": 182,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "absorption maximum": {
+                "value": 400,
+                "unit": "nm",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "CE",
+        "filler_name": "AgSbF6",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "epoxy group conversion": {
+                "value": 80,
+                "unit": "%",
+                "conditions": []
+            },
+            "gel content": {
+                "value": 100,
+                "unit": "%",
+                "conditions": []
+            },
+            "glass transition temperature": {
+                "value": 170,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "absorption maximum": {
+                "value": 410,
+                "unit": "nm",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "CE",
+        "filler_name": "AgSbF6",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "20%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "epoxy group conversion": {
+                "value": 87,
+                "unit": "%",
+                "conditions": []
+            },
+            "gel content": {
+                "value": 98,
+                "unit": "%",
+                "conditions": []
+            },
+            "glass transition temperature": {
+                "value": 156,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "absorption maximum": {
+                "value": 415,
+                "unit": "nm",
+                "conditions": []
+            }
+        }
+    }
+]

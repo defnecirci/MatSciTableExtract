@@ -1,0 +1,242 @@
+[
+    {
+        "sample_id": 0,
+        "matrix_name": "Epoxy",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "L": {
+                "value": "NA",
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter": {
+                "value": 185,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-Parameter": {
+                "value": 66,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "a": {
+                "value": 1.4,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "B": {
+                "value": 119,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "t": {
+                "value": 187,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "a (2)": {
+                "value": 4.2,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 1,
+        "matrix_name": "Epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "1%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "L": {
+                "value": 900,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter": {
+                "value": 182,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-Parameter": {
+                "value": 83,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "a": {
+                "value": 1.6,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "B": {
+                "value": 99,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "t": {
+                "value": 192,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "a (2)": {
+                "value": 4.4,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "Epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA",
+        "properties": {
+            "L": {
+                "value": 250,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter": {
+                "value": 213,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-Parameter": {
+                "value": 84,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "a": {
+                "value": 1.4,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "B": {
+                "value": 129,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "t": {
+                "value": 228,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "a (2)": {
+                "value": 3.7,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "Epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA-ferro",
+        "properties": {
+            "L": {
+                "value": 550,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter": {
+                "value": 235,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-Parameter": {
+                "value": 112,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "a": {
+                "value": 1.4,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "B": {
+                "value": 124,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "t": {
+                "value": 252,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "a (2)": {
+                "value": 3.4,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "Epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA-thio",
+        "properties": {
+            "L": {
+                "value": 250,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "3-parameter": {
+                "value": 266,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "2-Parameter": {
+                "value": 134,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "a": {
+                "value": 1.9,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "B": {
+                "value": 132,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "t": {
+                "value": 277,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "a (2)": {
+                "value": 4.3,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    }
+]

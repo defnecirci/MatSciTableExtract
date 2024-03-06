@@ -1,0 +1,56 @@
+
+****** Result for Image/Page 1 ******
+Table 1. Nanoparticle Concentrations, Glass Transition
+Temperatures from TMDSC and BDS, Estimated
+Interparticle Spacing (IPS), and Interfacial Shell Thickness
+from SAXS and BDS
+SiOz
+(wt %).
+0
+5
+18
+28
+40
+52
+5102
+(vol %)
+interfacial
+shell (nm)
+SAXS
+BDS
+2.3
+8.9
+14.8
+22.9
+32.6
+T,(MDSC) Ig(BDS, a,)
+(K)
+371
+367
+371
+367
+372
+366
+373
+368
+373
+368
+373
+367
+IPS
+(nm)
+63.6
+29.5
+20.3
+13.5
+8.7
+4.2
+4.3
+4.1
+4.7
+4.6
+5.6
+6.0
+4.7
+4.4
+4.0

@@ -1,0 +1,86 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "PVDF",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "enthalpy of fusion": {
+                "value": 27.17,
+                "unit": "J/g",
+                "conditions": []
+            },
+            "glass transition temperature": {
+                "value": 161.5,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "crystallinity": {
+                "value": 25.95,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PVDF",
+        "filler_name": "BT",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "enthalpy of fusion": {
+                "value": 21.57,
+                "unit": "J/g",
+                "conditions": []
+            },
+            "glass transition temperature": {
+                "value": 160.85,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "crystallinity": {
+                "value": 28.12,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "PVDF",
+        "filler_name": "h-BT",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "enthalpy of fusion": {
+                "value": 22.6,
+                "unit": "J/g",
+                "conditions": []
+            },
+            "glass transition temperature": {
+                "value": 161.63,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "crystallinity": {
+                "value": 29.48,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    }
+]

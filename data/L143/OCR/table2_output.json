@@ -1,0 +1,144 @@
+Based on the provided table, here are the JSON objects for each nano-composite sample:
+
+```json
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": null,
+        "filler description": "nanocomposite",
+        "composition": {
+            "amount": null,
+            "type": "Not Specified"
+        },
+        "particle_surface_treatment_name": "Not Specified",
+        "properties": {
+            "freezable water": {
+                "value": null,
+                "unit": "mg/1g sample",
+                "conditions": [
+                    {
+                        "type": "conditioned at",
+                        "value": 50,
+                        "unit": "°C 100% th"
+                    }
+                ]
+            },
+            "non-frozen water": {
+                "value": 0.4,
+                "unit": "mg/1g sample",
+                "conditions": [
+                    {
+                        "type": "conditioned at",
+                        "value": 50,
+                        "unit": "°C 100% th"
+                    }
+                ]
+            },
+            "total water": {
+                "value": 0.4,
+                "unit": "mg/1g sample",
+                "conditions": [
+                    {
+                        "type": "conditioned at",
+                        "value": 50,
+                        "unit": "°C 100% th"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "VS",
+        "filler description": "nanocomposite",
+        "composition": {
+            "amount": "5",
+            "type": "wt%"
+        },
+        "particle_surface_treatment_name": "Not Specified",
+        "properties": {
+            "freezable water": {
+                "value": 1.1,
+                "unit": "mg/1g sample",
+                "conditions": [
+                    {
+                        "type": "conditioned at",
+                        "value": 50,
+                        "unit": "°C 100% th"
+                    }
+                ]
+            },
+            "non-frozen water": {
+                "value": 2.6,
+                "unit": "mg/1g sample",
+                "conditions": [
+                    {
+                        "type": "conditioned at",
+                        "value": 50,
+                        "unit": "°C 100% th"
+                    }
+                ]
+            },
+            "total water": {
+                "value": 3.7,
+                "unit": "mg/1g sample",
+                "conditions": [
+                    {
+                        "type": "conditioned at",
+                        "value": 50,
+                        "unit": "°C 100% th"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "VS",
+        "filler description": "nanocomposite",
+        "composition": {
+            "amount": "12.5",
+            "type": "wt%"
+        },
+        "particle_surface_treatment_name": "Not Specified",
+        "properties": {
+            "freezable water": {
+                "value": 5.3,
+                "unit": "mg/1g sample",
+                "conditions": [
+                    {
+                        "type": "conditioned at",
+                        "value": 50,
+                        "unit": "°C 100% th"
+                    }
+                ]
+            },
+            "non-frozen water": {
+                "value": 7.7,
+                "unit": "mg/1g sample",
+                "conditions": [
+                    {
+                        "type": "conditioned at",
+                        "value": 50,
+                        "unit": "°C 100% th"
+                    }
+                ]
+            },
+            "total water": {
+                "value": 13.0,
+                "unit": "mg/1g sample",
+                "conditions": [
+                    {
+                        "type": "conditioned at",
+                        "value": 50,
+                        "unit": "°C 100% th"
+                    }
+                ]
+            }
+        }
+    }
+]
+```
