@@ -1,0 +1,23 @@
+
+****** Result for Image/Page 1 ******
+Table 5 Trap depths in all composites calculated using initial
+rise method from the TSC spectra
+Samples
+Trap depth (eV)
+C5 peak
+C4 peak
+Untreated nanocomposite
+Microcomposite
+Vinylsilane-treated nanocomposite
+Aminosilane-treated nanocomposite
+HMDS-treated nanocomposite
+0.37 ÷ 0.1
+0.35 ÷ 0.1
+0.41 ÷ 0.1
+2.4 ÷ 0.1
+2.0 ÷ 0.1
+1.1 ÷ 0.1
+1.1 ÷ 0.1
+1.12 ÷ 0.1
+1.12 ÷ 0.1
+1.14 ÷ 0.1

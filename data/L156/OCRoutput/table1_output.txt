@@ -1,0 +1,92 @@
+[
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "SiO2",
+        "filler_description": "micron",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "peak EPR signal": {
+                "value": 1600,
+                "unit": "a.u.",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "peak EPR signal": {
+                "value": 6600,
+                "unit": "a.u.",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "AEAPS",
+        "properties": {
+            "peak EPR signal": {
+                "value": 1600,
+                "unit": "a.u.",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "HMDS",
+        "properties": {
+            "peak EPR signal": {
+                "value": 600,
+                "unit": "a.u.",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "TES",
+        "properties": {
+            "peak EPR signal": {
+                "value": 1300,
+                "unit": "a.u.",
+                "conditions": []
+            }
+        }
+    }
+]

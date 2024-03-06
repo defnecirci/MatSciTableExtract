@@ -1,0 +1,18 @@
+
+****** Result for Image/Page 1 ******
+Table 3. Peak EPR signal for powdered samples and 5 wt%
+composites.
+Material
+Micro
+Untreated nano
+Vinylsilane treated
+nano
+Powder
+550
+6000
+Signal (a.u.)
+Composites
+1600
+6600
+550
+1300

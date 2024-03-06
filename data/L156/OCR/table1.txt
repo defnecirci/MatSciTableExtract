@@ -1,0 +1,21 @@
+
+****** Result for Image/Page 1 ******
+Table 1 Peak EPR signal for particulates and 5 wt% composites
+Material
+Signal (a.u.)
+SiOz
+Micron Scale silica
+Nanoscale silica
+AEAPS treated nanosilica
+HMDS treated nanosilica
+TES treated nanosilica
+550
+5,050
+550
+550
+Composite
+1,600
+6,600
+1,600
+600
+1,300

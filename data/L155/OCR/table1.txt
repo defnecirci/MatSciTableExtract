@@ -1,0 +1,23 @@
+
+****** Result for Image/Page 1 ******
+Table 1. Crystallinity and melting point data for XLPE
+materials from DSC measurements.
+Degree of
+Melting Point
+Sample Type
+XLPE only
+crystallinity (%)
+45 ± I
+5% untreated nanosilica
+44 ± I
++ XLPE
+5% vinylsilane treated
+60 I
+nanosilica + XLPE
+5% untreated microsilica
+44 ± 1
++ XLPE
+103.2 ± 1.4
+109.0 ± 0.5
+108.1 ± 1.1
+108.3 ± 1.2
