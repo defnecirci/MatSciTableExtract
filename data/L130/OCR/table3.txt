@@ -1,0 +1,41 @@
+
+****** Result for Image/Page 1 ******
+Table 3. Surface Properties of PI/OFG Nanocomposites
+OFG in PI
+(Feed wt %)
+0%
+3%
+7%
+10 %
+15 %
+H2O
+Glycerol
+60.5 $ 1.7
+67.3 $ 1.0
+69.5 $ 0.8
+71.9 $ 1.2
+73.1 $ 0.7
+71.1 $ 1.2
+70.4 $ 1.0
+72.3 $ 0.9
+74.0 $ 1.1
+74.8 $ 0.6
+a Calculated with Wu's harmonic mean method. 10
+*s (mN/m)ª
+50.7
+45.8
+44.0
+43.4
+41.1
+48 (mN/m)ª
+3.06
+3.96
+5.75
+6.43
+6.48
+va (mN/m)ª
+47.7
+35.7
+33.6
+29.9
+29.0

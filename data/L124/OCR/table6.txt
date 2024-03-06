@@ -1,0 +1,17 @@
+
+****** Result for Image/Page 1 ******
+Table 6. Impulse test breakdown fields for the XLPE and 12-1/2%
+nanocomposite materials.
+The Weibull shape parameters are given in
+parentheses.
+Material
+Unfilled XLPE
+12½ wt% untreated 12nm
+nanosilica-filled XLPE
+12½ wt% vinyl silane-treated 12nm
+nanosilica-filled XLPE
+1.2x50 us Impulse strength @
+25 °C in kV/mm (B)
+254 (3.6)
+311 (4.9)
+332 (5.2)

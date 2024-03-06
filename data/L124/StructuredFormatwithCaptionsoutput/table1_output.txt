@@ -1,0 +1,263 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "ether-bisphenol epoxy resin",
+        "filler_name": "none",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric permittivity": {
+                "value": 10.0,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 1000,
+                        "unit": "Hz"
+                    },
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "epoxy resin",
+        "filler_name": "nanotitania",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "lichtenecker-rother prediction": {
+                "value": 10.1,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 1000,
+                        "unit": "Hz"
+                    }
+                ]
+            },
+            "measured dielectric permittivity": {
+                "value": 13.8,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 1000,
+                        "unit": "Hz"
+                    },
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "polyimide",
+        "filler_name": "none",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric permittivity": {
+                "value": 3.5,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 100000,
+                        "unit": "Hz"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "polyimide",
+        "filler_name": "nanoalumina",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "vol"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "lichtenecker-rother prediction": {
+                "value": 3.7,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 100000,
+                        "unit": "Hz"
+                    }
+                ]
+            },
+            "measured dielectric permittivity": {
+                "value": 6.0,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 100000,
+                        "unit": "Hz"
+                    },
+                    {
+                        "type": "temperature",
+                        "value": 30,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "crosslinked polyethylene",
+        "filler_name": "none",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric permittivity": {
+                "value": 2.4,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 100000,
+                        "unit": "Hz"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 6,
+        "matrix_name": "crosslinked polyethylene",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "lichtenecker-rother prediction": {
+                "value": 2.4,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 100000,
+                        "unit": "Hz"
+                    }
+                ]
+            },
+            "measured dielectric permittivity": {
+                "value": 2.0,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 100000,
+                        "unit": "Hz"
+                    },
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 7,
+        "matrix_name": "low-density polyethylene",
+        "filler_name": "none",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric permittivity": {
+                "value": 2.3,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 10000,
+                        "unit": "Hz"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 8,
+        "matrix_name": "low-density polyethylene",
+        "filler_name": "ZnO nanoparticles",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "lichtenecker-rother prediction": {
+                "value": 2.35,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 10000,
+                        "unit": "Hz"
+                    }
+                ]
+            },
+            "measured dielectric permittivity": {
+                "value": 2.52,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 10000,
+                        "unit": "Hz"
+                    },
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    }
+]

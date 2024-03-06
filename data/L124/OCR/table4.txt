@@ -1,0 +1,17 @@
+
+****** Result for Image/Page 1 ******
+Table 4. Current decay from the depoling phase (Following 90 minutes of
+poling at 30 kV/mm) of the absorption current experiment (decade/decade)
+Material
+Current Decay Exponent n
+Unfilled XLPE
+12-1/2 wt% Gum micosilica-filled
+XLPE
+12-1/2 wt% untreated 12nm
+nanosilica-filled XLPE
+12-1/2 wt% vinyl silane-treated
+12nm nanosilica-filled XLPE
+1.34
+1.49
+1.04
+1.05

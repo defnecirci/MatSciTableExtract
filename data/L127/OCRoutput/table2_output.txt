@@ -1,0 +1,114 @@
+[
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "AC breakdown scale parameter": {
+                "value": "not specified",
+                "unit": "not specified",
+                "conditions": []
+            },
+            "shape parameter": {
+                "value": "not specified",
+                "unit": "not specified",
+                "conditions": []
+            },
+            "percent decrease": {
+                "value": 56,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "AC breakdown scale parameter": {
+                "value": "not specified",
+                "unit": "not specified",
+                "conditions": []
+            },
+            "shape parameter": {
+                "value": "not specified",
+                "unit": "not specified",
+                "conditions": []
+            },
+            "percent decrease": {
+                "value": 2,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "AC breakdown scale parameter": {
+                "value": "not specified",
+                "unit": "not specified",
+                "conditions": []
+            },
+            "shape parameter": {
+                "value": "not specified",
+                "unit": "not specified",
+                "conditions": []
+            },
+            "percent decrease": {
+                "value": 29,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "AC breakdown scale parameter": {
+                "value": "not specified",
+                "unit": "not specified",
+                "conditions": []
+            },
+            "shape parameter": {
+                "value": "not specified",
+                "unit": "not specified",
+                "conditions": []
+            },
+            "percent decrease": {
+                "value": "not specified",
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    }
+]

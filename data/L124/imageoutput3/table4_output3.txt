@@ -1,0 +1,98 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "current decay exponent": {
+                "value": 1.34,
+                "unit": "dimensionless",
+                "conditions": [
+                    {
+                        "type": "poling",
+                        "value": 30,
+                        "unit": "kV/mm"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "micosilica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "1/2 wt%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "current decay exponent": {
+                "value": 1.49,
+                "unit": "dimensionless",
+                "conditions": [
+                    {
+                        "type": "poling",
+                        "value": 30,
+                        "unit": "kV/mm"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "1/2 wt%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "current decay exponent": {
+                "value": 1.04,
+                "unit": "dimensionless",
+                "conditions": [
+                    {
+                        "type": "poling",
+                        "value": 30,
+                        "unit": "kV/mm"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "XLPE",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "1/2 wt%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "vinyl silane",
+        "properties": {
+            "current decay exponent": {
+                "value": 1.05,
+                "unit": "dimensionless",
+                "conditions": [
+                    {
+                        "type": "poling",
+                        "value": 30,
+                        "unit": "kV/mm"
+                    }
+                ]
+            }
+        }
+    }
+]

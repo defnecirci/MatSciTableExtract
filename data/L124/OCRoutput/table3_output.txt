@@ -1,0 +1,71 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "epoxy resin",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "polarization decay": {
+                "value": 40,
+                "unit": "s",
+                "conditions": []
+            },
+            "space charge decay": {
+                "value": 4800,
+                "unit": "s",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "epoxy resin",
+        "filler_name": "titania",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "polarization decay": {
+                "value": 90,
+                "unit": "s",
+                "conditions": []
+            },
+            "space charge decay": {
+                "value": 6300,
+                "unit": "s",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "epoxy resin",
+        "filler_name": "titania",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "polarization decay": {
+                "value": 24,
+                "unit": "s",
+                "conditions": []
+            },
+            "space charge decay": {
+                "value": 2210,
+                "unit": "s",
+                "conditions": []
+            }
+        }
+    }
+]

@@ -1,0 +1,33 @@
+
+****** Result for Image/Page 1 ******
+Table 5. Breakdown strength for unfilled and filled crosslinked polyethylene
+showing that the addition of nanoparticles incresases the dielectric breakdown
+strength. The Weibull shape parameters are given in parentheses.
+dc
+ac (60 Hz)
+Characteristic
+Characteristic
+Breakdown
+Breakdown
+Material
+Strength @
+Strength @
+25°C in
+25°C in peak
+kV/mm (B)
+kV/mm (B)
+Unfilled XLPE
+184 (5.1)
+178 (4.5)
+12½ wt% 6um microsilica-filled
+162 (5.9)
+139 (5.4)
+XLPE
+12½ wt% untreated 12nm
+nanosilica-filled XLPE
+191 (4.8)
+186 (5.0)
+12½ wt% vinyl silane-treated
+12nm nanosilica-filled XLPE
+239 (5.2)
+193 (5.8)

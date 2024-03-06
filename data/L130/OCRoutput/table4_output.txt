@@ -1,0 +1,202 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "PI",
+        "filler_name": "none",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric constant": {
+                "value": 3.19,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 100,
+                        "unit": "KHz"
+                    }
+                ]
+            },
+            "theoretical density": {
+                "value": 1.37,
+                "unit": "g/cm^3"
+            },
+            "measured density": {
+                "value": 1.37,
+                "unit": "g/cm^3"
+            },
+            "relative porosity increase": {
+                "value": 5.16,
+                "unit": "%"
+            },
+            "total free volume fraction": {
+                "value": 0.044,
+                "unit": "not specified"
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "3%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric constant": {
+                "value": 2.84,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 100,
+                        "unit": "KHz"
+                    }
+                ]
+            },
+            "theoretical density": {
+                "value": 1.358,
+                "unit": "g/cm^3"
+            },
+            "measured density": {
+                "value": 1.29,
+                "unit": "g/cm^3"
+            },
+            "relative porosity increase": {
+                "value": 14.44,
+                "unit": "%"
+            },
+            "total free volume fraction": {
+                "value": 0.116,
+                "unit": "not specified"
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "7%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric constant": {
+                "value": 2.64,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 100,
+                        "unit": "KHz"
+                    }
+                ]
+            },
+            "theoretical density": {
+                "value": 1.352,
+                "unit": "g/cm^3"
+            },
+            "measured density": {
+                "value": 1.16,
+                "unit": "g/cm^3"
+            },
+            "relative porosity increase": {
+                "value": 19.33,
+                "unit": "%"
+            },
+            "total free volume fraction": {
+                "value": 0.212,
+                "unit": "not specified"
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric constant": {
+                "value": 2.56,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 100,
+                        "unit": "KHz"
+                    }
+                ]
+            },
+            "theoretical density": {
+                "value": 1.346,
+                "unit": "g/cm^3"
+            },
+            "measured density": {
+                "value": 1.09,
+                "unit": "g/cm^3"
+            },
+            "relative porosity increase": {
+                "value": 24.37,
+                "unit": "%"
+            },
+            "total free volume fraction": {
+                "value": 0.267,
+                "unit": "not specified"
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "15%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric constant": {
+                "value": 2.3,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "frequency",
+                        "value": 100,
+                        "unit": "KHz"
+                    }
+                ]
+            },
+            "theoretical density": {
+                "value": 1.341,
+                "unit": "g/cm^3"
+            },
+            "measured density": {
+                "value": 1.02,
+                "unit": "g/cm^3"
+            },
+            "relative porosity increase": {
+                "value": 0.319,
+                "unit": "%"
+            },
+            "total free volume fraction": {
+                "value": 0.319,
+                "unit": "not specified"
+            }
+        }
+    }
+]

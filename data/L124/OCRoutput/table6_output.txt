@@ -1,0 +1,86 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "impulse strength": {
+                "value": 254,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "weibull shape parameter": {
+                "value": 3.6,
+                "unit": "dimensionless"
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "12.5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "impulse strength": {
+                "value": 311,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "weibull shape parameter": {
+                "value": 4.9,
+                "unit": "dimensionless"
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "12.5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "vinyl silane",
+        "properties": {
+            "impulse strength": {
+                "value": 332,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "weibull shape parameter": {
+                "value": 5.2,
+                "unit": "dimensionless"
+            }
+        }
+    }
+]

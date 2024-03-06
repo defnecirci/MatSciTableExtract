@@ -1,0 +1,187 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "PI",
+        "filler_name": "none",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature": {
+                "value": 350.9,
+                "unit": "C"
+            },
+            "decomposition temperature": {
+                "value": 526.9,
+                "unit": "C"
+            },
+            "coefficient of thermal expansion": {
+                "value": 31.1,
+                "unit": "ppm/\u00b0C"
+            },
+            "young's modulus": {
+                "value": 2.38,
+                "unit": "GPa"
+            },
+            "maximum stress": {
+                "value": 261.2,
+                "unit": "MPa"
+            },
+            "elongation at break": {
+                "value": 1.5,
+                "unit": "%"
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "3%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature": {
+                "value": 360.9,
+                "unit": "C"
+            },
+            "decomposition temperature": {
+                "value": 504.5,
+                "unit": "C"
+            },
+            "coefficient of thermal expansion": {
+                "value": 36.1,
+                "unit": "ppm/\u00b0C"
+            },
+            "young's modulus": {
+                "value": 2.49,
+                "unit": "GPa"
+            },
+            "maximum stress": {
+                "value": 328.3,
+                "unit": "MPa"
+            },
+            "elongation at break": {
+                "value": 1.7,
+                "unit": "%"
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "7%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature": {
+                "value": 362.1,
+                "unit": "C"
+            },
+            "decomposition temperature": {
+                "value": 494.4,
+                "unit": "C"
+            },
+            "coefficient of thermal expansion": {
+                "value": 44.2,
+                "unit": "ppm/\u00b0C"
+            },
+            "young's modulus": {
+                "value": 2.69,
+                "unit": "GPa"
+            },
+            "maximum stress": {
+                "value": 251.2,
+                "unit": "MPa"
+            },
+            "elongation at break": {
+                "value": 1.3,
+                "unit": "%"
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature": {
+                "value": 360.3,
+                "unit": "C"
+            },
+            "decomposition temperature": {
+                "value": 491.8,
+                "unit": "C"
+            },
+            "coefficient of thermal expansion": {
+                "value": 48.2,
+                "unit": "ppm/\u00b0C"
+            },
+            "young's modulus": {
+                "value": 2.8,
+                "unit": "GPa"
+            },
+            "maximum stress": {
+                "value": 201.6,
+                "unit": "MPa"
+            },
+            "elongation at break": {
+                "value": 1.1,
+                "unit": "%"
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "15%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature": {
+                "value": 359.0,
+                "unit": "C"
+            },
+            "decomposition temperature": {
+                "value": 471.5,
+                "unit": "C"
+            },
+            "coefficient of thermal expansion": {
+                "value": 52.4,
+                "unit": "ppm/\u00b0C"
+            },
+            "young's modulus": {
+                "value": 3.07,
+                "unit": "GPa"
+            },
+            "maximum stress": {
+                "value": 155.5,
+                "unit": "MPa"
+            },
+            "elongation at break": {
+                "value": 0.6,
+                "unit": "%"
+            }
+        }
+    }
+]

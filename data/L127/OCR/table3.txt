@@ -1,0 +1,46 @@
+
+****** Result for Image/Page 1 ******
+Table 3. DC breakdown scale parameters, shape parameters, and % decrease
+n
+B
+% decrease
+Tritherm at 200°C
+257
+6
+21
+5 wt% untr silica at 200°C
+380
+3
+17
+10 wt% untr silica at 200°C
+290
+2
+14
+5 wt% tr silica at 200°C
+313
+2
+3
+10 wt% tr silica at 200°C
+Tritherm at 300°C
+5 wt% untr silica at 300°C
+10 wt% untr silica at 300°C
+5 wt% tr silica at 300°C
+323
+120
+275
+282
+310
+4
+15
+2
+63
+4
+40
+14
+16
+10
+4
+10 wt% tr silica at 300°C
+340
+5
+10

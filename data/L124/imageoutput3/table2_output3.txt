@@ -1,0 +1,179 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dc characteristic breakdown strength at 25°C": {
+                "value": 270,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "Weibull shape parameter",
+                        "value": 2.5,
+                        "unit": ""
+                    }
+                ]
+            },
+            "dc characteristic breakdown strength at 80°C": {
+                "value": 79,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "Weibull shape parameter",
+                        "value": 3.8,
+                        "unit": ""
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dc characteristic breakdown strength at 25°C": {
+                "value": 315,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "Weibull shape parameter",
+                        "value": 2.0,
+                        "unit": ""
+                    }
+                ]
+            },
+            "dc characteristic breakdown strength at 80°C": {
+                "value": 83,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "Weibull shape parameter",
+                        "value": 3.1,
+                        "unit": ""
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "vinyl silane",
+        "properties": {
+            "dc characteristic breakdown strength at 25°C": {
+                "value": 446,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "Weibull shape parameter",
+                        "value": 1.7,
+                        "unit": ""
+                    }
+                ]
+            },
+            "dc characteristic breakdown strength at 80°C": {
+                "value": 220,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "Weibull shape parameter",
+                        "value": 2.9,
+                        "unit": ""
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "Epoxy resin",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dc characteristic breakdown strength at 25°C": {
+                "value": 332,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "Weibull shape parameter",
+                        "value": 10.56,
+                        "unit": ""
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "Epoxy resin",
+        "filler_name": "titanium dioxide",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dc characteristic breakdown strength at 25°C": {
+                "value": 391,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "Weibull shape parameter",
+                        "value": 10.39,
+                        "unit": ""
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 6,
+        "matrix_name": "Epoxy resin",
+        "filler_name": "montmorillonite",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "4-1/2%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dc characteristic breakdown strength at 25°C": {
+                "value": 531,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "not specified",
+                        "value": "not specified",
+                        "unit": "not specified"
+                    }
+                ]
+            }
+        }
+    }
+]
