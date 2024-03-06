@@ -1,0 +1,6 @@
+0,1,2,3
+Sample,Tensile Strength (MPa),Modulus at 300% Elongation (MPa),Elongation Break at (%)
+Pure EVA,6.1,0.59,1618
+EVA + 2 wt % 12Me-MMT,5.7,0.79,1471
+EVA + 4 wt % 12Me-MMT,8.1,1.26,1135
+EVA + 6 wt % 12Me-MMT,9.6,1.27,1397

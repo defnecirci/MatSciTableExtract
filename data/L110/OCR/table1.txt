@@ -1,0 +1,27 @@
+
+****** Result for Image/Page 1 ******
+Table 1. Weibull parameters for Epoxy - TiOz composites.
+Composition
+Unfilled
+0.1% nano
+0.5% nano
+1% nano
+5% nano
+10% nano
+10% micron
+Shape Parameter (B)
+Scale Parameter (a)
+8.789
+52.30
+11.11
+33.28
+13.46
+28.64
+10.17
+33.71
+12.36
+30.15
+8.154
+34.57
+25.45
+38.43

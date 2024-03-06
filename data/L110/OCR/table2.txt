@@ -1,0 +1,24 @@
+
+****** Result for Image/Page 1 ******
+Table 2. Weibull parameters for Epoxy - Al203 composites.
+Composition
+Unfilled
+0.1% nano
+0.5% nano
+1% nano
+5% nano
+5% micron
+Shape Parameter (B)
+Scale Parameter (a)
+8.789
+52.30
+19.57
+36.01
+18.01
+39.98
+15.60
+37.83
+9.237
+37.18
+13.94
+32.61

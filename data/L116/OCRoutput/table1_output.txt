@@ -1,0 +1,114 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "EVA",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "tensile strength": {
+                "value": 6.1,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "modulus at 300% elongation": {
+                "value": 0.59,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "elongation at break": {
+                "value": 1618,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "EVA",
+        "filler_name": "12Me-MMT",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "tensile strength": {
+                "value": 5.7,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "modulus at 300% elongation": {
+                "value": 0.79,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "elongation at break": {
+                "value": 1471,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "EVA",
+        "filler_name": "12Me-MMT",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "4%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "tensile strength": {
+                "value": 8.1,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "modulus at 300% elongation": {
+                "value": 1.26,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "elongation at break": {
+                "value": 1135,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "EVA",
+        "filler_name": "12Me-MMT",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "6%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "tensile strength": {
+                "value": 9.6,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "modulus at 300% elongation": {
+                "value": 1.27,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "elongation at break": {
+                "value": 1397,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    }
+]

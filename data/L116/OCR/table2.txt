@@ -1,0 +1,30 @@
+
+****** Result for Image/Page 1 ******
+TABLE II
+Dynamic Mechanical Properties of EVA and Its Nanocomposites
+E' (Pa) at
+E' (Pa) at
+Sample
+30°C
+Pure EVA
+EVA + 4 wt % 12Me-MMT
+EVA + 6 wt % 12Me-MMT
+-27
+-30
+-32
+05 X 10'
+1.9 × 108
+06 × 108
+1.5 × 106
+04 × 106
+07 × 106
+tan &
+at Ts
+0.95
+0.68
+0.55
+tan &
+at 30°C
+0.17
+0.16
+0.17

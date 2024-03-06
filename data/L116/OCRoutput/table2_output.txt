@@ -1,0 +1,86 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "EVA",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "storage modulus at 30\u00b0C": {
+                "value": 1.9,
+                "unit": "Pa",
+                "conditions": []
+            },
+            "loss tangent at Ts": {
+                "value": 0.95,
+                "unit": "dimensionless",
+                "conditions": []
+            },
+            "loss tangent at 30\u00b0C": {
+                "value": 0.17,
+                "unit": "dimensionless",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "EVA",
+        "filler_name": "12Me-MMT",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "4%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "storage modulus at 30\u00b0C": {
+                "value": 0.6,
+                "unit": "Pa",
+                "conditions": []
+            },
+            "loss tangent at Ts": {
+                "value": 0.68,
+                "unit": "dimensionless",
+                "conditions": []
+            },
+            "loss tangent at 30\u00b0C": {
+                "value": 0.16,
+                "unit": "dimensionless",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "EVA",
+        "filler_name": "12Me-MMT",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "6%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "storage modulus at 30\u00b0C": {
+                "value": 1.5,
+                "unit": "Pa",
+                "conditions": []
+            },
+            "loss tangent at Ts": {
+                "value": 0.55,
+                "unit": "dimensionless",
+                "conditions": []
+            },
+            "loss tangent at 30\u00b0C": {
+                "value": 0.17,
+                "unit": "dimensionless",
+                "conditions": []
+            }
+        }
+    }
+]
