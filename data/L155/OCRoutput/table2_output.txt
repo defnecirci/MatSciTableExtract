@@ -1,0 +1,74 @@
+[
+    {
+        "sample_id": "not specified",
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "activation energy": {
+                "value": 0.18,
+                "unit": "eV",
+                "conditions": [
+                    {
+                        "type": "deviation",
+                        "value": 0.05,
+                        "unit": "eV"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": "not specified",
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "vinylsilane-treated",
+        "properties": {
+            "activation energy": {
+                "value": 0.18,
+                "unit": "eV",
+                "conditions": [
+                    {
+                        "type": "deviation",
+                        "value": 0.09,
+                        "unit": "eV"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": "not specified",
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "activation energy": {
+                "value": 0.28,
+                "unit": "eV",
+                "conditions": [
+                    {
+                        "type": "deviation",
+                        "value": 0.06,
+                        "unit": "eV"
+                    }
+                ]
+            }
+        }
+    }
+]

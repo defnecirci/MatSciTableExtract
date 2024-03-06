@@ -1,0 +1,167 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "PI",
+        "filler_name": "none",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "water contact angle": {
+                "value": 60.5,
+                "unit": "degrees"
+            },
+            "glycerol contact angle": {
+                "value": 71.1,
+                "unit": "degrees"
+            },
+            "surface tension components (Y's)": {
+                "value": 50.7,
+                "unit": "mN/m"
+            },
+            "dispersive component of surface energy (vd)": {
+                "value": 3.06,
+                "unit": "mN/m"
+            },
+            "polar component of surface energy (y's)": {
+                "value": 47.7,
+                "unit": "mN/m"
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "3%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "water contact angle": {
+                "value": 67.3,
+                "unit": "degrees"
+            },
+            "glycerol contact angle": {
+                "value": 70.4,
+                "unit": "degrees"
+            },
+            "surface tension components (Y's)": {
+                "value": 45.8,
+                "unit": "mN/m"
+            },
+            "dispersive component of surface energy (vd)": {
+                "value": 3.96,
+                "unit": "mN/m"
+            },
+            "polar component of surface energy (y's)": {
+                "value": 35.7,
+                "unit": "mN/m"
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "7%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "water contact angle": {
+                "value": 69.5,
+                "unit": "degrees"
+            },
+            "glycerol contact angle": {
+                "value": 72.3,
+                "unit": "degrees"
+            },
+            "surface tension components (Y's)": {
+                "value": 44.0,
+                "unit": "mN/m"
+            },
+            "dispersive component of surface energy (vd)": {
+                "value": 5.75,
+                "unit": "mN/m"
+            },
+            "polar component of surface energy (y's)": {
+                "value": 33.6,
+                "unit": "mN/m"
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "water contact angle": {
+                "value": 71.9,
+                "unit": "degrees"
+            },
+            "glycerol contact angle": {
+                "value": 74.0,
+                "unit": "degrees"
+            },
+            "surface tension components (Y's)": {
+                "value": 43.4,
+                "unit": "mN/m"
+            },
+            "dispersive component of surface energy (vd)": {
+                "value": 6.43,
+                "unit": "mN/m"
+            },
+            "polar component of surface energy (y's)": {
+                "value": 29.9,
+                "unit": "mN/m"
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "PI",
+        "filler_name": "OFG",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "15%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "water contact angle": {
+                "value": 73.1,
+                "unit": "degrees"
+            },
+            "glycerol contact angle": {
+                "value": 74.8,
+                "unit": "degrees"
+            },
+            "surface tension components (Y's)": {
+                "value": 41.1,
+                "unit": "mN/m"
+            },
+            "dispersive component of surface energy (vd)": {
+                "value": 6.48,
+                "unit": "mN/m"
+            },
+            "polar component of surface energy (y's)": {
+                "value": 29.0,
+                "unit": "mN/m"
+            }
+        }
+    }
+]

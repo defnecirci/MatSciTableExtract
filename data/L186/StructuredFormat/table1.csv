@@ -1,0 +1,5 @@
+,,tensile properties,,impact strength,crystallization,behavior
+samples,"Young's modulus, E (MPa)","yield strength, Oy (MPa)","elongation at break, EB (%)","absorbed energy per thickness, W (J/cm)","crystallization temp, Tconset at - 10 K/min (K)","isothermal crystallization half-time, T1/2, at 413 K (min)"
+neat PP,910 + 30,28 + 2,810 + 30,3.09 + 0.49,390,> 120
+PP/2.8 wt % graphite melt extrusion,1300 + 50,N/A,8 + 1,0.84 + 0.20,402,9.5
+PP/2.5 wt % graphite SSSP,1870 + 170,43 + 3,560 + 60,1.21 + 0.15,411,3.6

@@ -1,0 +1,15 @@
+
+****** Result for Image/Page 1 ******
+Table 2. Calculated low frequency activation energies for
+silica composites.
+Sample Name
+XLPE + 5% untreated
+nanosilica
+XLPE + 5% vinylsilane-
+treated nanosilica
+Activation Energy
+(eV)
+0.18 ÷ 0.05
+0.18 ÷ 0.09
+XLPE + 5% microsilica
+0.28 ÷ 0.06

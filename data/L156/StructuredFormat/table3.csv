@@ -1,0 +1,8 @@
+0,1,2,3,4
+Materials,Temperature,,,
+,25 °C,60 °C,70 °C,80 °C
+XLPE,269 (2.49),183 (2.65),129 (3.66),79 (3.84)
+XLPE + untreated nanosilica,314 (2.07),260 (2.27),213 (2.49),83 (3.09)
+XLPE + AEAPS treated nanosilica,400 (1.69),266 (2.20),263 (1.79),134 (2.11)
+XLPE + HMDS treated nanosilica,336 (1.69),225 (1.97),208 (2.14),128 (2.09)
+XLPE + TES treated nanosilica,446 (1.73),422 (2.22),344 (2.17),220 (2.87)

@@ -1,0 +1,117 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "trap depth c5 peak": {
+                "value": 0.37,
+                "unit": "eV",
+                "conditions": []
+            },
+            "trap depth c4 peak": {
+                "value": 1.1,
+                "unit": "eV",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "trap depth c5 peak": {
+                "value": 0.35,
+                "unit": "eV",
+                "conditions": []
+            },
+            "trap depth c4 peak": {
+                "value": 1.1,
+                "unit": "eV",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "Vinylsilane",
+        "properties": {
+            "trap depth c5 peak": {
+                "value": 0.41,
+                "unit": "eV",
+                "conditions": []
+            },
+            "trap depth c4 peak": {
+                "value": 1.12,
+                "unit": "eV",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "Aminosilane",
+        "properties": {
+            "trap depth c5 peak": {
+                "value": 2.4,
+                "unit": "eV",
+                "conditions": []
+            },
+            "trap depth c4 peak": {
+                "value": 1.12,
+                "unit": "eV",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "HMDS",
+        "properties": {
+            "trap depth c5 peak": {
+                "value": 2.0,
+                "unit": "eV",
+                "conditions": []
+            },
+            "trap depth c4 peak": {
+                "value": 1.14,
+                "unit": "eV",
+                "conditions": []
+            }
+        }
+    }
+]

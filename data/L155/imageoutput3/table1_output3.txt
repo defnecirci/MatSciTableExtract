@@ -1,0 +1,94 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "degree of crystallinity": {
+                "value": 45,
+                "unit": "%",
+                "conditions": []
+            },
+            "melting point": {
+                "value": 103.2,
+                "unit": "°C",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "degree of crystallinity": {
+                "value": 44,
+                "unit": "%",
+                "conditions": []
+            },
+            "melting point": {
+                "value": 109.0,
+                "unit": "°C",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "vinylsilane",
+        "properties": {
+            "degree of crystallinity": {
+                "value": 60,
+                "unit": "%",
+                "conditions": []
+            },
+            "melting point": {
+                "value": 108.1,
+                "unit": "°C",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "XLPE",
+        "filler_name": "microsilica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "degree of crystallinity": {
+                "value": 44,
+                "unit": "%",
+                "conditions": []
+            },
+            "melting point": {
+                "value": 108.3,
+                "unit": "°C",
+                "conditions": []
+            }
+        }
+    }
+]

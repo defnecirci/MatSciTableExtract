@@ -1,0 +1,101 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "EVA",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature": {
+                "value": -27,
+                "unit": "°C"
+            },
+            "storage modulus at Tg": {
+                "value": 5e7,
+                "unit": "Pa"
+            },
+            "storage modulus at 30°C": {
+                "value": 1.5e6,
+                "unit": "Pa"
+            },
+            "tan delta at Tg": {
+                "value": 0.95,
+                "unit": "dimensionless"
+            },
+            "tan delta at 30°C": {
+                "value": 0.17,
+                "unit": "dimensionless"
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "EVA",
+        "filler_name": "MMT",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "4 wt %",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "12Me",
+        "properties": {
+            "glass transition temperature": {
+                "value": -30,
+                "unit": "°C"
+            },
+            "storage modulus at Tg": {
+                "value": 1.9e8,
+                "unit": "Pa"
+            },
+            "storage modulus at 30°C": {
+                "value": 4e6,
+                "unit": "Pa"
+            },
+            "tan delta at Tg": {
+                "value": 0.68,
+                "unit": "dimensionless"
+            },
+            "tan delta at 30°C": {
+                "value": 0.16,
+                "unit": "dimensionless"
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "EVA",
+        "filler_name": "MMT",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "6 wt %",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "12Me",
+        "properties": {
+            "glass transition temperature": {
+                "value": -32,
+                "unit": "°C"
+            },
+            "storage modulus at Tg": {
+                "value": 6e8,
+                "unit": "Pa"
+            },
+            "storage modulus at 30°C": {
+                "value": 7e6,
+                "unit": "Pa"
+            },
+            "tan delta at Tg": {
+                "value": 0.55,
+                "unit": "dimensionless"
+            },
+            "tan delta at 30°C": {
+                "value": 0.17,
+                "unit": "dimensionless"
+            }
+        }
+    }
+]

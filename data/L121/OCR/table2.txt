@@ -1,0 +1,11 @@
+
+****** Result for Image/Page 1 ******
+Below Tg
+Above Tg
+Table 2. Calculated activation energies.
+TiO, nanocomposite
+TiO, microcomposite
+1.3 $ 0.1 eV
+1.1 $ 0.1 eV
+1.8 ÷ 0.1 eV
+2.5 $ 0.1 eV

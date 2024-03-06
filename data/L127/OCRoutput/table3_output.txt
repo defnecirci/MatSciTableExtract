@@ -1,0 +1,186 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "Tritherm",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "DC breakdown scale parameter": {
+                "value": 380,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "shape parameter": {
+                "value": 3,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percent decrease": {
+                "value": 17,
+                "unit": "%",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "Tritherm",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "DC breakdown scale parameter": {
+                "value": 290,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "shape parameter": {
+                "value": 2,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percent decrease": {
+                "value": 14,
+                "unit": "%",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "Tritherm",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "DC breakdown scale parameter": {
+                "value": 313,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "shape parameter": {
+                "value": 2,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percent decrease": {
+                "value": 3,
+                "unit": "%",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "Tritherm",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "DC breakdown scale parameter": {
+                "value": 340,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 300,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "shape parameter": {
+                "value": 5,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 300,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percent decrease": {
+                "value": 10,
+                "unit": "%",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 300,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    }
+]

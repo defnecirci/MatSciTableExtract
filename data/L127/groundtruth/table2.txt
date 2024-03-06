@@ -1,0 +1,82 @@
+[
+     {
+        "sample_id": 1,
+        "matrix_name": "tritherm",
+        "filler_name": "none",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "AC breakdown scale parameter": {"value": 122, "unit": "not specified","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]},
+            "AC breakdown shape parameter": {"value": 4, "unit": "not specified", "conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]},
+            "AC %decrease": {"value": 56, "unit": "%","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]}
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "tritherm",
+        "filler_name": "silica",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "AC breakdown scale parameter": {"value": 181, "unit": "not specified","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]},
+            "AC breakdown shape parameter": {"value": 4, "unit": "not specified","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]},
+            "AC %decrease": {"value": 9, "unit": "%","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]}
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "tritherm",
+        "filler_name": "silica",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "AC breakdown scale parameter": {"value": 220, "unit": "not specified","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]},
+            "AC breakdown shape parameter": {"value": 3, "unit": "not specified","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]},
+            "AC %decrease": {"value": 2, "unit": "%","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]}
+        }
+    },
+   {
+        "sample_id": 4,
+        "matrix_name": "tritherm",
+        "filler_name": "silica",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "AC breakdown scale parameter": {"value": 158, "unit": "not specified","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]},
+            "AC breakdown shape parameter": {"value": 5, "unit": "not specified","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]},
+            "AC %decrease": {"value": 29, "unit": "%","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]}
+        }
+    },
+     {
+        "sample_id": 5,
+        "matrix_name": "tritherm",
+        "filler_name": "silica",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "AC breakdown scale parameter": {"value": 251, "unit": "not specified","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]},
+            "AC breakdown shape parameter": {"value": 4, "unit": "not specified","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]},
+            "AC %decrease": {"value": "not specified" , "unit": "%","conditions":[{"type": "temperature", "value": 300, "unit": "°C"} ]}
+        }
+     }
+]

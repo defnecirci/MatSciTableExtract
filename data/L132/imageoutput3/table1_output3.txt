@@ -1,0 +1,230 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "not specified",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature (TMMDSC)": {
+                "value": 371,
+                "unit": "K",
+                "conditions": []
+            },
+            "glass transition temperature (BDS, α1)": {
+                "value": 367,
+                "unit": "K",
+                "conditions": []
+            },
+            "interparticle spacing (IPS)": {
+                "value": "not specified",
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (SAXS)": {
+                "value": "not specified",
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (BDS)": {
+                "value": "not specified",
+                "unit": "nm",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "not specified",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature (TMMDSC)": {
+                "value": 371,
+                "unit": "K",
+                "conditions": []
+            },
+            "glass transition temperature (BDS, α1)": {
+                "value": 367,
+                "unit": "K",
+                "conditions": []
+            },
+            "interparticle spacing (IPS)": {
+                "value": 63.6,
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (SAXS)": {
+                "value": 4.2,
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (BDS)": {
+                "value": 5.6,
+                "unit": "nm",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "not specified",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "18",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature (TMMDSC)": {
+                "value": 372,
+                "unit": "K",
+                "conditions": []
+            },
+            "glass transition temperature (BDS, α1)": {
+                "value": 366,
+                "unit": "K",
+                "conditions": []
+            },
+            "interparticle spacing (IPS)": {
+                "value": 29.5,
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (SAXS)": {
+                "value": 4.3,
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (BDS)": {
+                "value": 6.0,
+                "unit": "nm",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "not specified",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "28",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature (TMMDSC)": {
+                "value": 373,
+                "unit": "K",
+                "conditions": []
+            },
+            "glass transition temperature (BDS, α1)": {
+                "value": 368,
+                "unit": "K",
+                "conditions": []
+            },
+            "interparticle spacing (IPS)": {
+                "value": 20.3,
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (SAXS)": {
+                "value": 4.1,
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (BDS)": {
+                "value": 4.7,
+                "unit": "nm",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "not specified",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "40",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature (TMMDSC)": {
+                "value": 373,
+                "unit": "K",
+                "conditions": []
+            },
+            "glass transition temperature (BDS, α1)": {
+                "value": 368,
+                "unit": "K",
+                "conditions": []
+            },
+            "interparticle spacing (IPS)": {
+                "value": 13.5,
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (SAXS)": {
+                "value": 4.7,
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (BDS)": {
+                "value": 4.4,
+                "unit": "nm",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 6,
+        "matrix_name": "not specified",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "52",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature (TMMDSC)": {
+                "value": 373,
+                "unit": "K",
+                "conditions": []
+            },
+            "glass transition temperature (BDS, α1)": {
+                "value": 367,
+                "unit": "K",
+                "conditions": []
+            },
+            "interparticle spacing (IPS)": {
+                "value": 8.7,
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (SAXS)": {
+                "value": 4.6,
+                "unit": "nm",
+                "conditions": []
+            },
+            "interfacial shell thickness (BDS)": {
+                "value": 4.0,
+                "unit": "nm",
+                "conditions": []
+            }
+        }
+    }
+]

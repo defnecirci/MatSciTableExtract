@@ -1,0 +1,111 @@
+[
+     {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric breakdown strength 1": {"value": 270, "unit": "kV/mm ", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "Weibull parameter - shape": {"value": 2.5, "unit": "not specified"},
+            "dielectric breakdown strength 2": {"value": 79, "unit": "kV/mm ", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 80, "unit": "°C"} ] },
+            "Weibull parameter - shape": {"value": 3.8, "unit": "not specified"}
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler description":"nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dielectric breakdown strength 1": {"value": 315, "unit": "kV/mm ", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "Weibull parameter - shape 1": {"value": 2.0, "unit": "not specified"},
+            "dielectric breakdown strength 2": {"value": 83, "unit": "kV/mm ", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 80, "unit": "°C"} ] },
+            "Weibull parameter - shape 2": {"value": 3.1, "unit": "not specified"}
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler description":"nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "vinyl silane",
+        "properties": {
+            "dielectric breakdown strength 1": {"value": 446, "unit": "kV/mm ", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "Weibull parameter - shape 1": {"value": 1.7, "unit": "not specified"},
+            "dielectric breakdown strength 2": {"value": 220, "unit": "kV/mm ", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 80, "unit": "°C"} ] },
+            "Weibull parameter - shape 2": {"value": 2.9, "unit": "not specified"}
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "ether-bisphenol epoxy resin",
+        "filler_name": "none",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric breakdown strength": {"value": 332, "unit": "kV/mm ", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "Weibull parameter - shape": {"value": 10.56, "unit": "not specified"}
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "ether-bisphenol epoxy resin",
+        "filler_name": "titania",
+        "filler description":"nano",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dielectric breakdown strength": {"value": 391, "unit": "kV/mm ", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "Weibull parameter - shape": {"value": 10.39, "unit": "not specified"}
+        }
+    },
+    {
+        "sample_id": 6,
+        "matrix_name": "ether-bisphenol epoxy resin",
+        "filler_name": "none",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric breakdown strength": {"value": 347, "unit": "kV/mm ", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]}
+        }
+    },
+    {
+        "sample_id": 7,
+        "matrix_name": "epoxy resin",
+        "filler_name": "nanoclay (MMT)",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "4.5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric breakdown strength": {"value": 531, "unit": "kV/mm ", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]}
+        }
+    }
+]

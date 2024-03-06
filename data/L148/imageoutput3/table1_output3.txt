@@ -1,0 +1,242 @@
+[ 
+  {
+        "sample_id": 1,
+        "matrix_name": "epoxy",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "free-space length": {
+                "value": "NA",
+                "unit": "mm",
+                "conditions": []
+            },
+            "63% confidence interval": {
+                "value": 185,
+                "unit": "",
+                "conditions": []
+            },
+            "scale factor (3-parameter)": {
+                "value": 66,
+                "unit": "",
+                "conditions": []
+            },
+            "shape factor (3-parameter)": {
+                "value": 1.4,
+                "unit": "",
+                "conditions": []
+            },
+            "location (3-parameter)": {
+                "value": 119,
+                "unit": "",
+                "conditions": []
+            },
+            "scale factor (2-parameter)": {
+                "value": 187,
+                "unit": "",
+                "conditions": []
+            },
+            "shape factor (2-parameter)": {
+                "value": 4.2,
+                "unit": "",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "1%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "free-space length": {
+                "value": 900,
+                "unit": "mm",
+                "conditions": []
+            },
+            "63% confidence interval": {
+                "value": 182,
+                "unit": "",
+                "conditions": []
+            },
+            "scale factor (3-parameter)": {
+                "value": 83,
+                "unit": "",
+                "conditions": []
+            },
+            "shape factor (3-parameter)": {
+                "value": 1.6,
+                "unit": "",
+                "conditions": []
+            },
+            "location (3-parameter)": {
+                "value": 99,
+                "unit": "",
+                "conditions": []
+            },
+            "scale factor (2-parameter)": {
+                "value": 192,
+                "unit": "",
+                "conditions": []
+            },
+            "shape factor (2-parameter)": {
+                "value": 4.4,
+                "unit": "",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA",
+        "properties": {
+            "free-space length": {
+                "value": 250,
+                "unit": "mm",
+                "conditions": []
+            },
+            "63% confidence interval": {
+                "value": 213,
+                "unit": "",
+                "conditions": []
+            },
+            "scale factor (3-parameter)": {
+                "value": 84,
+                "unit": "",
+                "conditions": []
+            },
+            "shape factor (3-parameter)": {
+                "value": 1.4,
+                "unit": "",
+                "conditions": []
+            },
+            "location (3-parameter)": {
+                "value": 129,
+                "unit": "",
+                "conditions": []
+            },
+            "scale factor (2-parameter)": {
+                "value": 228,
+                "unit": "",
+                "conditions": []
+            },
+            "shape factor (2-parameter)": {
+                "value": 3.7,
+                "unit": "",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA-ferro",
+        "properties": {
+            "free-space length": {
+                "value": 550,
+                "unit": "mm",
+                "conditions": []
+            },
+            "63% confidence interval": {
+                "value": 235,
+                "unit": "",
+                "conditions": []
+            },
+            "scale factor (3-parameter)": {
+                "value": 112,
+                "unit": "",
+                "conditions": []
+            },
+            "shape factor (3-parameter)": {
+                "value": 1.4,
+                "unit": "",
+                "conditions": []
+            },
+            "location (3-parameter)": {
+                "value": 124,
+                "unit": "",
+                "conditions": []
+            },
+            "scale factor (2-parameter)": {
+                "value": 252,
+                "unit": "",
+                "conditions": []
+            },
+            "shape factor (2-parameter)": {
+                "value": 3.4,
+                "unit": "",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA-thio",
+        "properties": {
+            "free-space length": {
+                "value": 250,
+                "unit": "mm",
+                "conditions": []
+            },
+            "63% confidence interval": {
+                "value": 266,
+                "unit": "",
+                "conditions": []
+            },
+            "scale factor (3-parameter)": {
+                "value": 134,
+                "unit": "",
+                "conditions": []
+            },
+            "shape factor (3-parameter)": {
+                "value": 1.9,
+                "unit": "",
+                "conditions": []
+            },
+            "location (3-parameter)": {
+                "value": 132,
+                "unit": "",
+                "conditions": []
+            },
+            "scale factor (2-parameter)": {
+                "value": 277,
+                "unit": "",
+                "conditions": []
+            },
+            "shape factor (2-parameter)": {
+                "value": 4.3,
+                "unit": "",
+                "conditions": []
+            }
+        }
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "moisture content": {
+                "value": 0.01,
+                "unit": "wt%",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    },
+                    {
+                        "type": "relative humidity",
+                        "value": 100,
+                        "unit": "%"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "VS",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "moisture content": {
+                "value": 0.22,
+                "unit": "wt%",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    },
+                    {
+                        "type": "relative humidity",
+                        "value": 100,
+                        "unit": "%"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "UN",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "moisture content": {
+                "value": 0.28,
+                "unit": "wt%",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    },
+                    {
+                        "type": "relative humidity",
+                        "value": 100,
+                        "unit": "%"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "XLPE",
+        "filler_name": "VS",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "12.5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "moisture content": {
+                "value": 0.86,
+                "unit": "wt%",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    },
+                    {
+                        "type": "relative humidity",
+                        "value": 100,
+                        "unit": "%"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "XLPE",
+        "filler_name": "UN",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "12.5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "moisture content": {
+                "value": 0.9,
+                "unit": "wt%",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    },
+                    {
+                        "type": "relative humidity",
+                        "value": 100,
+                        "unit": "%"
+                    }
+                ]
+            }
+        }
+    }
+]

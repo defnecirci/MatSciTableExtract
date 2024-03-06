@@ -1,0 +1,32 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "not specified",
+        "filler_name": "TiO2",
+        "filler description":"nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "activation energy 1": {"value": 1.3 , "unit": "eV", "conditions":[{"type": "Tg", "value": "below", "unit": "not specified"}] },
+            "activation energy 2": {"value": 1.8 , "unit": "eV", "conditions":[{"type": "Tg", "value": "above", "unit": "not specified"}] }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "not specified",
+        "filler_name": "TiO2",
+        "filler description":"micro",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "activation energy 1": {"value": 1.1, "unit": "eV",  "conditions":[{"type": "Tg", "value": "below", "unit": "not specified"}]},
+            "activation energy 2": {"value": 2.5 , "unit": "eV", "conditions":[{"type": "Tg", "value": "above", "unit": "not specified"}] }
+        }
+    } 
+]

@@ -1,0 +1,22 @@
+
+****** Result for Image/Page 1 ******
+Table 3. Exponential time constant of polarization and space
+charge decay from the PEA experiment [29].
+Material
+Unfilled ether-bisphenol
+epoxy resin
+10 wt% 1.5 um microtitania-
+filled epoxy resin
+10 wt% untreated 22 nm
+nanotitania-filled epoxy resin
+Polarization
+Decay (s)
+40
+90
+24
+Space
+Charge
+Decay (s)
+4800
+6300
+2210

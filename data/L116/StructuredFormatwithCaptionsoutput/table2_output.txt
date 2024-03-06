@@ -1,0 +1,137 @@
+[
+    {
+        "sample_id": 0,
+        "matrix_name": "EVA",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature": {
+                "value": -27,
+                "unit": "C"
+            },
+            "storage modulus at Tg": {
+                "value": 5,
+                "unit": "Pa",
+                "conditions": [
+                    {
+                        "type": "multiplier",
+                        "value": "10^7"
+                    }
+                ]
+            },
+            "storage modulus at 30C": {
+                "value": 1.5,
+                "unit": "Pa",
+                "conditions": [
+                    {
+                        "type": "multiplier",
+                        "value": "10^6"
+                    }
+                ]
+            },
+            "tan delta at Tg": {
+                "value": 0.95,
+                "unit": ""
+            },
+            "tan delta at 30C": {
+                "value": 0.17,
+                "unit": ""
+            }
+        }
+    },
+    {
+        "sample_id": 1,
+        "matrix_name": "EVA",
+        "filler_name": "12Me-MMT",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "4%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature": {
+                "value": -30,
+                "unit": "C"
+            },
+            "storage modulus at Tg": {
+                "value": 1.9,
+                "unit": "Pa",
+                "conditions": [
+                    {
+                        "type": "multiplier",
+                        "value": "10^8"
+                    }
+                ]
+            },
+            "storage modulus at 30C": {
+                "value": 0.4,
+                "unit": "Pa",
+                "conditions": [
+                    {
+                        "type": "multiplier",
+                        "value": "10^6"
+                    }
+                ]
+            },
+            "tan delta at Tg": {
+                "value": 0.68,
+                "unit": ""
+            },
+            "tan delta at 30C": {
+                "value": 0.16,
+                "unit": ""
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "EVA",
+        "filler_name": "12Me-MMT",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "6%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature": {
+                "value": -32,
+                "unit": "C"
+            },
+            "storage modulus at Tg": {
+                "value": 1,
+                "unit": "Pa",
+                "conditions": [
+                    {
+                        "type": "multiplier",
+                        "value": "10^8"
+                    }
+                ]
+            },
+            "storage modulus at 30C": {
+                "value": 0.7,
+                "unit": "Pa",
+                "conditions": [
+                    {
+                        "type": "multiplier",
+                        "value": "10^6"
+                    }
+                ]
+            },
+            "tan delta at Tg": {
+                "value": 0.55,
+                "unit": ""
+            },
+            "tan delta at 30C": {
+                "value": 0.17,
+                "unit": ""
+            }
+        }
+    }
+]

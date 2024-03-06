@@ -1,0 +1,10 @@
+Table 2. Breakdown strength for unfilled and nanoparticle-filled resins showing that the addition of nanoparticles incresases the dielectric breakdown strength. The Weibull shape parameters are given in parentheses.
+0,1,2
+Material [Ref],dc Characteristic Breakdown Strength @ 25°C in kV/mm (B),dc Characteristic Breakdown Strength @ 80°C in kV/mm (B)
+Unfilled XLPE [7],270 (2.5),79 (3.8)
+5 wt% untreated 12nm nanosilica-filled XLPE [7],315 (2.0),83 (3.1)
+5 wt% vinyl silane-treated 12nm nanosilica-filled XLPE [7],446 (1.7),220 (2.9)
+Unfilled ether-bisphenol epoxy resin [24],332 (10.56),
+10 wt% untreated 22 nm nanotitania-filled epoxy resin [24],391 (10.39),
+Unfilled ether-bisphenol epoxy resin [25],347,
+4-1/2 wt% nanoclay (MMT)-filled epoxy resin [25],531,

@@ -1,0 +1,56 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "activation energy": {
+                "value": 0.18,
+                "unit": "eV",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "vinylsilane",
+        "properties": {
+            "activation energy": {
+                "value": 0.18,
+                "unit": "eV",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "activation energy": {
+                "value": 0.28,
+                "unit": "eV",
+                "conditions": []
+            }
+        }
+    }
+]

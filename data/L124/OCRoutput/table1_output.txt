@@ -1,0 +1,98 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "epoxy resin",
+        "filler_name": "nanotitania",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dielectric permittivity at 60 Hz": {
+                "value": 10.1,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "polyimide",
+        "filler_name": "nanoalumina",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "vol"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dielectric permittivity at 60 Hz": {
+                "value": 3.7,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 30,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "crosslinked polyethylene",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dielectric permittivity at 60 Hz": {
+                "value": 2.4,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "not specified",
+                        "value": "not specified",
+                        "unit": "not specified"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "low-density polyethylene",
+        "filler_name": "ZnO nanoparticles",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dielectric permittivity at 60 Hz": {
+                "value": 2.52,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "not specified",
+                        "value": "not specified",
+                        "unit": "not specified"
+                    }
+                ]
+            }
+        }
+    }
+]

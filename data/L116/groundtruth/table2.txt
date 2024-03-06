@@ -1,0 +1,56 @@
+[
+     {
+        "sample_id": 1,
+        "matrix_name": "EVA",
+        "filler_name": "none",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature": {"value": -27, "unit": "°C"},
+            "storage modulus 1": {"value": 5e7, "unit":"Pa", "conditions":[{"type": "temperature", "value": "Tg", "unit": "°C"}] },
+            "storage modulus 2": {"value": 1.5e6, "unit":"Pa", "conditions":[{"type": "temperature", "value": "30", "unit": "°C"}] },
+            "tan delta 1": {"value": 0.95, "unit": "not specified", "conditions":[{"type": "temperature", "value": "Tg", "unit": "°C"}] },
+            "tan delta 2": {"value": 0.17, "unit": "not specified", "conditions":[{"type": "temperature", "value": "30", "unit": "°C"}] }
+        }
+    },
+   {
+        "sample_id": 2,
+        "matrix_name": "EVA",
+        "filler_name": "12Me-MMT",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "4%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "glass transition temperature": {"value": -30, "unit": "°C"},
+            "storage modulus 1": {"value": 1.9e8, "unit":"Pa", "conditions":[{"type": "temperature", "value": "Tg", "unit": "°C"}] },
+            "storage modulus 2": {"value": 4e6, "unit":"Pa", "conditions":[{"type": "temperature", "value": "30", "unit": "°C"}] },
+            "tan delta 1": {"value": 0.68, "unit": "not specified", "conditions":[{"type": "temperature", "value": "Tg", "unit": "°C"}] },
+            "tan delta 2": {"value": 0.16, "unit": "not specified", "conditions":[{"type": "temperature", "value": "30", "unit": "°C"}] }
+        }
+     },
+    {
+        "sample_id": 3,
+        "matrix_name": "EVA",
+        "filler_name": "12Me-MMT",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "6%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+       "properties": {
+            "glass transition temperature": {"value": -32, "unit": "°C"},
+            "storage modulus 1": {"value": 6e8, "unit":"Pa", "conditions":[{"type": "temperature", "value": "Tg", "unit": "°C"}] },
+            "storage modulus 2": {"value": 7e6, "unit":"Pa", "conditions":[{"type": "temperature", "value": "30", "unit": "°C"}] },
+            "tan delta 1": {"value": 0.55, "unit": "not specified", "conditions":[{"type": "temperature", "value": "Tg", "unit": "°C"}] },
+            "tan delta 2": {"value": 0.17, "unit": "not specified", "conditions":[{"type": "temperature", "value": "30", "unit": "°C"}] }
+        }
+    }
+   	]

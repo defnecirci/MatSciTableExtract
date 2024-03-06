@@ -1,0 +1,140 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "not specified",
+        "filler_name": "none",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 8.789,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 52.3,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.1%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 19.57,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 36.01,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.5%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 18.01,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 39.98,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "1%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 15.6,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 37.83,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 9.237,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 37.18,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 6,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 13.94,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 32.61,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    }
+]

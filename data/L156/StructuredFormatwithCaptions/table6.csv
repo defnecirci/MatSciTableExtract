@@ -1,0 +1,9 @@
+Table 6 Threshold field for charge accumulations in front of both the electrodes derived from pulsed electroacoustic analysis [28]
+0,1,2
+Sample,Threshold field (positive) kV/mm,Threshold field (negative) kV/mm
+XLPE,13,-13
+XLPE + Micron Scale silica,15,-13
+XLPE + untreated nanoscale silica,12,-14
+XLPE + AEAPS treated nanoscale silica,-,-
+XLPE + HMDS treated nanoscale silica,29,-29
+XLPE + TES treated nanoscale silica,25,-26

@@ -1,0 +1,24 @@
+
+****** Result for Image/Page 1 ******
+Table 2. Amount of freezable water and non-frozen water in XLPE/silica
+nanocomposites conditioned at 50 °C 100% th from MDSC measurement (one
+sample for each material).
+Unit: mg / 1g sample
+XLPE
+5 wt% VS
+12.5 wt% VS
+Freezable
+water
+-
+1.1
+5.3
+Non-frozen
+water
+0.4
+2.6
+7.7
+Total
+water
+0.4
+3.7
+13.0

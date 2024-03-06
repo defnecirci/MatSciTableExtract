@@ -1,0 +1,162 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dc Characteristic Breakdown Strength": {
+                "value": 184,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "ac Characteristic Breakdown Strength": {
+                "value": 178,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    },
+                    {
+                        "type": "frequency",
+                        "value": 60,
+                        "unit": "Hz"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "12 1/2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dc Characteristic Breakdown Strength": {
+                "value": 162,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "ac Characteristic Breakdown Strength": {
+                "value": 139,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    },
+                    {
+                        "type": "frequency",
+                        "value": 60,
+                        "unit": "Hz"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "12 1/2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dc Characteristic Breakdown Strength": {
+                "value": 191,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "ac Characteristic Breakdown Strength": {
+                "value": 186,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    },
+                    {
+                        "type": "frequency",
+                        "value": 60,
+                        "unit": "Hz"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "12 1/2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "vinyl silane",
+        "properties": {
+            "dc Characteristic Breakdown Strength": {
+                "value": 239,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "ac Characteristic Breakdown Strength": {
+                "value": 193,
+                "unit": "kV/mm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    },
+                    {
+                        "type": "frequency",
+                        "value": 60,
+                        "unit": "Hz"
+                    }
+                ]
+            }
+        }
+    }
+]

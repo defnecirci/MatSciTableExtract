@@ -1,0 +1,292 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "thermal conductivity": {
+                "value": 257,
+                "unit": "W/mK",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percentage decrease": {
+                "value": 21,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "thermal conductivity": {
+                "value": 380,
+                "unit": "W/mK",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percentage decrease": {
+                "value": 17,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "thermal conductivity": {
+                "value": 290,
+                "unit": "W/mK",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percentage decrease": {
+                "value": 14,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "thermal conductivity": {
+                "value": 313,
+                "unit": "W/mK",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percentage decrease": {
+                "value": 3,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "thermal conductivity": {
+                "value": 323,
+                "unit": "W/mK",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 200,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percentage decrease": {
+                "value": 15,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 6,
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "thermal conductivity": {
+                "value": 120,
+                "unit": "W/mK",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 300,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percentage decrease": {
+                "value": 63,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 7,
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "thermal conductivity": {
+                "value": 275,
+                "unit": "W/mK",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 300,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percentage decrease": {
+                "value": 40,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 8,
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "thermal conductivity": {
+                "value": 282,
+                "unit": "W/mK",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 300,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percentage decrease": {
+                "value": 16,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 9,
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "thermal conductivity": {
+                "value": 310,
+                "unit": "W/mK",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 300,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percentage decrease": {
+                "value": 4,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 10,
+        "matrix_name": "not specified",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "treated",
+        "properties": {
+            "thermal conductivity": {
+                "value": 340,
+                "unit": "W/mK",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 300,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "percentage decrease": {
+                "value": 10,
+                "unit": "%",
+                "conditions": []
+            }
+        }
+    }
+]

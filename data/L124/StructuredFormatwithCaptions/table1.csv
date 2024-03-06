@@ -1,0 +1,15 @@
+Table 1. Lichtenecker-Rother predictions of composite material dielectric permittivity (&') and measured values at 60 Hz at 25 °C [17-19], at 30 °C [20]
+0,1,2,3
+Material,f(Hz),(L-R),Measured E'
+Unfilled ether-bisphenol epoxy resin,1k,,10.0
+Untreated 23 nm nanotitania,1k,,99
+10 wt% (3.0 vol%) untreated 22 nm nanotitania-filled epoxy resin,1k,10.1,13.8
+Unfilled polyimide (BTDA-ODA),100k,,3.5
+Untreated 12 nm nanoalumina,100k,,9.8
+5 vol% untreated 12 nm nanoalumina-filled polyimide,100k,3.7,6.0
+Unfilled crosslinked polyethylene (XLPE),100k,,2.4
+Untreated 12 nm nanosilica,100k,,4.5
+5 wt% (1.9 vol%) untreated 12 nm nanosilica-filled XLPE,100k,2.4,2.0
+Unfilled low-density polyethylene (LDPE),10k,,2.3
+Untreated 30 nm ZnO nanoparticles,10k,,8
+10 wt% (1.7vol%) untreated 30 nm ZnO nanoparticle-filled LDPE,10k,2.35,2.52

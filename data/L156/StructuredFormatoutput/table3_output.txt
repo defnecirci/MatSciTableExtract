@@ -1,0 +1,177 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric strength": {
+                "value": 269,
+                "unit": "kV/cm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "dissipation factor": {
+                "value": 2.49,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dielectric strength": {
+                "value": 314,
+                "unit": "kV/cm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "dissipation factor": {
+                "value": 2.07,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "AEAPS",
+        "properties": {
+            "dielectric strength": {
+                "value": 400,
+                "unit": "kV/cm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "dissipation factor": {
+                "value": 1.69,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "HMDS",
+        "properties": {
+            "dielectric strength": {
+                "value": 336,
+                "unit": "kV/cm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "dissipation factor": {
+                "value": 1.69,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "TES",
+        "properties": {
+            "dielectric strength": {
+                "value": 446,
+                "unit": "kV/cm",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            },
+            "dissipation factor": {
+                "value": 1.73,
+                "unit": "",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 25,
+                        "unit": "\u00b0C"
+                    }
+                ]
+            }
+        }
+    }
+]

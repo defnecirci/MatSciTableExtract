@@ -1,0 +1,74 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "current decay exponent": {
+                "value": 1.34,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "12-1/2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "current decay exponent": {
+                "value": 1.49,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "12-1/2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "current decay exponent": {
+                "value": 1.04,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "12-1/2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "vinyl silane",
+        "properties": {
+            "current decay exponent": {
+                "value": 1.05,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    }
+]

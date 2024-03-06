@@ -1,0 +1,50 @@
+[
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "BaTiO3",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "20",
+            "type": "vol"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "ac field (kV/mm)": {
+                "value": 12,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "field strength",
+                        "value": "Low field",
+                        "unit": "not specified"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "BaTiO3 + GPLs",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "20.43",
+            "type": "vol"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "ac field (kV/mm)": {
+                "value": 18.6,
+                "unit": "not specified",
+                "conditions": [
+                    {
+                        "type": "field strength",
+                        "value": "Low field",
+                        "unit": "not specified"
+                    }
+                ]
+            }
+        }
+    }
+]

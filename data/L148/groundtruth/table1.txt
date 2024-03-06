@@ -1,0 +1,102 @@
+[
+     {
+        "sample_id": 1,
+        "matrix_name": "epoxy",
+        "filler_name": "none",
+        "filler description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "free-spacelength": {"value": "NA", "unit": "nm"},
+            "63.2% characteristic DBS": {"value": 185, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "Weibull parameter - scale 1": {"value": 66, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "Weibull parameter - shape 1": {"value": 1.4, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "location": {"value": 119, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]},
+            "Weibull parameter - scale 2": {"value": 187, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]},
+            "Weibull parameter - shape 2": {"value": 4.2, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]}
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "1%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "free-spacelength": {"value": 900, "unit": "nm"},
+            "63.2% characteristic DBS": {"value": 182, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "Weibull parameter - scale 1": {"value": 83, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "Weibull parameter - shape 1": {"value": 1.6, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "location": {"value": 199, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]},
+            "Weibull parameter - scale 2": {"value": 192, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]},
+            "Weibull parameter - shape 2": {"value": 4.4, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]}
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA",
+        "properties": {
+            "free-spacelength": {"value": 250, "unit": "nm"},
+            "63.2% characteristic DBS": {"value": 213, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "Weibull parameter - scale 1": {"value": 84, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "Weibull parameter - shape 1": {"value": 1.4, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "location": {"value": 129, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]},
+            "Weibull parameter - scale 2": {"value": 228, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]},
+            "Weibull parameter - shape 2": {"value": 3.7, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]}
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA-ferro",
+        "properties": {
+            "free-spacelength": {"value": 550, "unit": "nm"},
+            "63.2% characteristic DBS": {"value": 235, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "Weibull parameter - scale 1": {"value": 112, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "Weibull parameter - shape 1": {"value": 1.4, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "location": {"value": 124, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]},
+            "Weibull parameter - scale 2": {"value": 252, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]},
+            "Weibull parameter - shape 2": {"value": 3.4, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]}
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "epoxy",
+        "filler_name": "SiO2",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "PGMA-thio",
+        "properties": {
+            "free-spacelength": {"value": 250, "unit": "nm"},
+            "63.2% characteristic DBS": {"value": 266, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "Weibull parameter - scale 1": {"value": 134, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "Weibull parameter - shape 1": {"value": 1.9, "unit": "not specified", "conditions":[{"type": "method", "value": "3- parameter", "unit": "°C"} ]},
+            "location": {"value": 132, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]},
+            "Weibull parameter - scale 2": {"value": 277, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]},
+            "Weibull parameter - shape 2": {"value": 4.3, "unit": "not specified", "conditions":[{"type": "method", "value": "2- parameter", "unit": "°C"} ]}
+        }
+    }
+]

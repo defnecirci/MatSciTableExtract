@@ -1,0 +1,86 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "CE",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {}
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "CE",
+        "filler_name": "AgSbF6",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "3%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {}
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "CE",
+        "filler_name": "AgSbF6",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {}
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "CE",
+        "filler_name": "AgSbF6",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "7%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {}
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "CE",
+        "filler_name": "AgSbF6",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {}
+    },
+    {
+        "sample_id": 6,
+        "matrix_name": "CE",
+        "filler_name": "AgSbF6",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "15%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {}
+    },
+    {
+        "sample_id": 7,
+        "matrix_name": "CE",
+        "filler_name": "AgSbF6",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "20%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {}
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "not specified",
+        "filler_name": "none",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 8.789,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 52.3,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.1%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 11.11,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 33.28,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "0.5%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 13.46,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 28.64,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "1%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 10.17,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 33.71,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "5%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 12.36,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 30.15,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 6,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "10%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 8.154,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 34.57,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 7,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "10%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Shape Parameter (B)": {
+                "value": 25.45,
+                "unit": "not specified",
+                "conditions": []
+            },
+            "Scale Parameter (a)": {
+                "value": 38.43,
+                "unit": "not specified",
+                "conditions": []
+            }
+        }
+    }
+]

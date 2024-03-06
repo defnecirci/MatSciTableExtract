@@ -1,0 +1,175 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "PI",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "nitrogen content": {
+                "value": 7.26,
+                "unit": "%"
+            },
+            "carbon content": {
+                "value": 67.54,
+                "unit": "%"
+            },
+            "hydrogen content": {
+                "value": 3.15,
+                "unit": "%"
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PI",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "3%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "nitrogen content": {
+                "value": 6.8,
+                "unit": "%"
+            },
+            "carbon content": {
+                "value": 66.33,
+                "unit": "%"
+            },
+            "hydrogen content": {
+                "value": 3.23,
+                "unit": "%"
+            },
+            "OFG in PI (Measured wt %)": {
+                "value": 7.47,
+                "unit": "%"
+            },
+            "OFG in PI (Measured mol %)": {
+                "value": 1.14,
+                "unit": "%"
+            },
+            "OFG in PI (vol %)": {
+                "value": 8.37,
+                "unit": "%"
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "PI",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "7%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "nitrogen content": {
+                "value": 6.58,
+                "unit": "%"
+            },
+            "carbon content": {
+                "value": 65.83,
+                "unit": "%"
+            },
+            "hydrogen content": {
+                "value": 3.26,
+                "unit": "%"
+            },
+            "OFG in PI (Measured wt %)": {
+                "value": 10.95,
+                "unit": "%"
+            },
+            "OFG in PI (Measured mol %)": {
+                "value": 1.72,
+                "unit": "%"
+            },
+            "OFG in PI (vol %)": {
+                "value": 12.22,
+                "unit": "%"
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "PI",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "10%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "nitrogen content": {
+                "value": 6.35,
+                "unit": "%"
+            },
+            "carbon content": {
+                "value": 64.39,
+                "unit": "%"
+            },
+            "hydrogen content": {
+                "value": 3.27,
+                "unit": "%"
+            },
+            "OFG in PI (Measured wt %)": {
+                "value": 15.03,
+                "unit": "%"
+            },
+            "OFG in PI (Measured mol %)": {
+                "value": 2.46,
+                "unit": "%"
+            },
+            "OFG in PI (vol %)": {
+                "value": 16.69,
+                "unit": "%"
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "PI",
+        "filler_name": "not specified",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "15%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "nitrogen content": {
+                "value": 6.2,
+                "unit": "%"
+            },
+            "carbon content": {
+                "value": 62.46,
+                "unit": "%"
+            },
+            "hydrogen content": {
+                "value": 3.28,
+                "unit": "%"
+            },
+            "OFG in PI (Measured wt %)": {
+                "value": 18.11,
+                "unit": "%"
+            },
+            "OFG in PI (Measured mol %)": {
+                "value": 3.05,
+                "unit": "%"
+            },
+            "OFG in PI (vol %)": {
+                "value": 20.03,
+                "unit": "%"
+            }
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler description": "micro",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "peak EPR signal": {"value": 1600, "unit": "a.u."}
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler description":"nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "peak EPR signal": {"value": 6600, "unit": "a.u."}
+        }
+    },
+    {
+       "sample_id": 3,
+        "matrix_name": "not specified",
+        "filler_name": "not specified",
+        "filler description":"nano",
+        "composition": {
+            "amount": "5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "vinylsilane",
+        "properties": {
+            "peak EPR signal": {"value": 1300, "unit": "a.u."}
+        }
+    }
+]

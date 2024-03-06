@@ -1,0 +1,207 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "characteristic breakdown voltage at 25°C": {
+                "value": 269,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.49, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 60°C": {
+                "value": 183,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.65, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 70°C": {
+                "value": 129,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 3.66, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 80°C": {
+                "value": 79,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 3.84, "unit": ""}
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "characteristic breakdown voltage at 25°C": {
+                "value": 314,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.07, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 60°C": {
+                "value": 260,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.27, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 70°C": {
+                "value": 213,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.49, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 80°C": {
+                "value": 83,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 3.09, "unit": ""}
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "AEAPS",
+        "properties": {
+            "characteristic breakdown voltage at 25°C": {
+                "value": 400,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 1.69, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 60°C": {
+                "value": 266,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.20, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 70°C": {
+                "value": 263,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 1.79, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 80°C": {
+                "value": 134,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.11, "unit": ""}
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "XLPE",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "HMDS",
+        "properties": {
+            "characteristic breakdown voltage at 25°C": {
+                "value": 336,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 1.69, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 60°C": {
+                "value": 225,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 1.97, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 70°C": {
+                "value": 208,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.14, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 80°C": {
+                "value": 128,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.09, "unit": ""}
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "XLPE",
+        "filler_name": "nanosilica",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "TES",
+        "properties": {
+            "characteristic breakdown voltage at 25°C": {
+                "value": 446,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 1.73, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 60°C": {
+                "value": 422,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.22, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 70°C": {
+                "value": 344,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.17, "unit": ""}
+                ]
+            },
+            "characteristic breakdown voltage at 80°C": {
+                "value": 220,
+                "unit": "kV/mm",
+                "conditions": [
+                    {"type": "weibull shape parameter", "value": 2.87, "unit": ""}
+                ]
+            }
+        }
+    }
+]

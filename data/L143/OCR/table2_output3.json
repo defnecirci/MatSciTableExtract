@@ -1,0 +1,86 @@
+[
+    {
+        "sample_id": "Not Specified",
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano-sized",
+        "composition": {
+            "amount": "0.0%",
+            "type": "wt%"
+        },
+        "particle_surface_treatment_name": "Not Specified",
+        "properties": {
+            "freezable water": {
+                "value": 0.0,
+                "unit": "mg/g",
+                "conditions": []
+            },
+            "non-frozen water": {
+                "value": 0.4,
+                "unit": "mg/g",
+                "conditions": []
+            },
+            "total water": {
+                "value": 0.4,
+                "unit": "mg/g",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "Not Specified",
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano-sized",
+        "composition": {
+            "amount": "5.0%",
+            "type": "wt%"
+        },
+        "particle_surface_treatment_name": "Not Specified",
+        "properties": {
+            "freezable water": {
+                "value": 1.1,
+                "unit": "mg/g",
+                "conditions": []
+            },
+            "non-frozen water": {
+                "value": 2.6,
+                "unit": "mg/g",
+                "conditions": []
+            },
+            "total water": {
+                "value": 3.7,
+                "unit": "mg/g",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": "Not Specified",
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler_description": "nano-sized",
+        "composition": {
+            "amount": "12.5%",
+            "type": "wt%"
+        },
+        "particle_surface_treatment_name": "Not Specified",
+        "properties": {
+            "freezable water": {
+                "value": 5.3,
+                "unit": "mg/g",
+                "conditions": []
+            },
+            "non-frozen water": {
+                "value": 7.7,
+                "unit": "mg/g",
+                "conditions": []
+            },
+            "total water": {
+                "value": 13.0,
+                "unit": "mg/g",
+                "conditions": []
+            }
+        }
+    }
+]

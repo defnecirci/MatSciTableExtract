@@ -1,0 +1,34 @@
+
+****** Result for Image/Page 1 ******
+Table 3 Characteristic breakdown voltage (kV/mm) of XLPE and several nanocomposites at a range of temperatures (Weibull shape
+parameter in parenthesis)
+Materials
+XLPE
+XLPE + untreated nanosilica
+XLPE + AEAPS treated nanosilica
+XLPE + HMDS treated nanosilica
+XLPE + TES treated nanosilica
+Temperature
+25 °C
+268 (200)
+400 (1.69)
+336 (1.69)
+446 (1.73)
+60 °C
+183 (2.65)
+260 (2.27)
+266 (2.20)
+225 (1.97)
+422 (2.22)
+70 °C
+129 (3.66)
+213 (2.49)
+263 (1.79)
+208 (2.14)
+344 (2.17)
+80 °C
+79 (3.84)
+83 (3.09)
+134 (2.11)
+128 (2.09)
+220 (2.87)

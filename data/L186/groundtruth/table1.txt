@@ -1,0 +1,59 @@
+[
+     {
+        "sample_id": 1,
+        "matrix_name": "PP",
+        "filler_name": "none",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "young's modulus": {"value": 910, "unit": "MPa"},
+            "yield strength": {"value": 28 , "unit": "MPa"},
+            "elongation at break": {"value": 810, "unit": "%"},
+            "absorbed energy per thickness": {"value": 3.09, "unit": "J/cm"},
+            "crystallization temperature": {"value": 390, "unit": "K", "conditions":[{"type": "cooling speed", "value": -10, "unit": "K/min"}] },
+            "half life of crystallization": {"value": 120, "unit": "min", "conditions":[{"type": "temperature", "value": -413, "unit": "K"}] }        
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PP",
+        "filler_name": "graphite",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "2.8%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "young's modulus": {"value": 1300, "unit": "MPa"},
+            "yield strength": {"value": "N/A", "unit": "MPa"},
+            "elongation at break": {"value": 8, "unit": "%"},
+            "absorbed energy per thickness": {"value": 0.84, "unit": "J/cm"},
+            "crystallization temperature": {"value": 402, "unit": "K", "conditions":[{"type": "cooling speed", "value": -10, "unit": "K/min"}] },
+            "half life of crystallization": {"value": 9.5, "unit": "min", "conditions":[{"type": "temperature", "value": -413, "unit": "K"}] }        
+        }
+    },
+   {
+        "sample_id": 3,
+        "matrix_name": "PP",
+        "filler_name": "graphite",
+        "filler description":"not specified",
+        "composition": {
+            "amount": "2.5",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "young's modulus": {"value": 1870 , "unit": "MPa"},
+            "yield strength": {"value": 43, "unit": "MPa"},
+            "elongation at break": {"value": 560 , "unit": "%"},
+            "absorbed energy per thickness": {"value": 1.21, "unit": "J/cm"},
+            "crystallization temperature": {"value": 411, "unit": "K", "conditions":[{"type": "cooling speed", "value": -10, "unit": "K/min"}] },
+            "half life of crystallization": {"value": 3.6, "unit": "min", "conditions":[{"type": "temperature", "value": -413, "unit": "K"}] }         
+        }
+    }
+]

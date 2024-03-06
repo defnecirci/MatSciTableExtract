@@ -1,0 +1,70 @@
+[
+     {
+        "sample_id": 1,
+        "matrix_name": "XLPE",
+        "filler_name": "none",
+        "filler description":"not sepcified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric breakdown strength 1": {"value": 184, "unit": "kV/mm", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "weibull parameter - shape 1": {"value": 5.1, "unit": "not specified"},
+            "dielectric breakdown strength 2": {"value": 178, "unit": "kV/mm", "conditions":[{"type": "field", "value": "ac(60)", "unit": "Hz"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "weibull parameter - shape 2": {"value": 4.5, "unit": "not specified"}
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler description":"micro",
+        "composition": {
+            "amount": "12.5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric breakdown strength 1": {"value": 162, "unit": "kV/mm", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "weibull parameter - shape 1": {"value": 5.9, "unit": "not specified"},
+            "dielectric breakdown strength 2": {"value": 139, "unit": "kV/mm", "conditions":[{"type": "field", "value": "ac(60)", "unit": "Hz"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "weibull parameter - shape 2": {"value": 5.4, "unit": "not specified"}
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler description":"nano",
+        "composition": {
+            "amount": "12.5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "untreated",
+        "properties": {
+            "dielectric breakdown strength 1": {"value": 191, "unit": "kV/mm", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "weibull parameter - shape 1": {"value": 4.8, "unit": "not specified"},
+            "dielectric breakdown strength 2": {"value": 186, "unit": "kV/mm", "conditions":[{"type": "field", "value": "ac(60)", "unit": "Hz"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "weibull parameter - shape 2": {"value": 5.0, "unit": "not specified"}
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "XLPE",
+        "filler_name": "silica",
+        "filler description":"nano",
+        "composition": {
+            "amount": "12.5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "vinyl silane",
+        "properties": {
+            "dielectric breakdown strength 1": {"value": 239, "unit": "kV/mm", "conditions":[{"type": "field", "value": "dc", "unit": "not specified"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "weibull parameter - shape 1": {"value": 5.2, "unit": "not specified"},
+            "dielectric breakdown strength 2": {"value": 193, "unit": "kV/mm", "conditions":[{"type": "field", "value": "ac(60)", "unit": "Hz"} ,{"type": "temperature", "value": 25, "unit": "°C"} ]},
+            "weibull parameter - shape 2": {"value": 5.8, "unit": "not specified"}
+        }
+    }
+]

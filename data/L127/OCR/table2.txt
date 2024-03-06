@@ -1,0 +1,23 @@
+Table 2. AC breakdown scale parameters, shape parameters, and % decrease
+n
+% decrease
+Tritherm at 300°C
+122
+4
+56
+5 wt% untr silica at 300°C
+181
+4
+9
+10 wt% untr silica at 300°C
+220
+3
+2
+5 wt% tr silica at 300°C
+158
+5
+29
+10 wt% tr silica at 300°C
+251
+4
+--

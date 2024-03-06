@@ -1,0 +1,72 @@
+[
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "TiO2",
+        "filler_description": "nano",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "energy gap below Tg": {
+                "value": 1.3,
+                "unit": "eV",
+                "conditions": [
+                    {
+                        "type": "uncertainty",
+                        "value": 0.1,
+                        "unit": "eV"
+                    }
+                ]
+            },
+            "energy gap above Tg": {
+                "value": 1.8,
+                "unit": "eV",
+                "conditions": [
+                    {
+                        "type": "uncertainty",
+                        "value": 0.1,
+                        "unit": "eV"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": "not specified",
+        "matrix_name": "not specified",
+        "filler_name": "TiO2",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "not specified",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "energy gap below Tg": {
+                "value": 1.1,
+                "unit": "eV",
+                "conditions": [
+                    {
+                        "type": "uncertainty",
+                        "value": 0.1,
+                        "unit": "eV"
+                    }
+                ]
+            },
+            "energy gap above Tg": {
+                "value": 2.5,
+                "unit": "eV",
+                "conditions": [
+                    {
+                        "type": "uncertainty",
+                        "value": 0.1,
+                        "unit": "eV"
+                    }
+                ]
+            }
+        }
+    }
+]
