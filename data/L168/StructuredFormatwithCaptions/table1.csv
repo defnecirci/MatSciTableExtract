@@ -1,0 +1,9 @@
+Table 1. Concentration of Each Component in the BT-Ag/PVDF Composites and Comparison of Dielectric Properties
+0,1,2,3,4,5,6
+sample,BT-Ag (wt %),BT-Ag (vol %),BT (vol %),Aga (vol %),Dk/tan 8 1 kHz,Dk/tan 8 100 kHz
+PVDF,0,0,0,0,10.1/0.03,9.45/0.05
+BT-Ag/PVDF-1,20,7.6,6.5,1.1,13.6/0.03,12.5/0.05
+BT-Ag/PVDF-2,40,18.0,15.4,2.6,20.6/0.03,18.8/0.05
+BT-Ag/PVDF-3,60,33.0,28.2,4.8,54.0/0.06,46.0/0.07
+BT-Ag/PVDF-4,70,43.4,37.1,6.3,94.3/0.06,81.0/0.06
+BT-Ag/PVDF-5,80,56.8,48.6,8.2,160.0/0.11,127.3/0.06

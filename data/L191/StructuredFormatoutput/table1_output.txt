@@ -1,0 +1,163 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "PMMA",
+        "filler_name": "TiO2",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "modified",
+        "properties": {
+            "T8": {
+                "value": 119.2,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "mean distance between agglomerates": {
+                "value": 4.13,
+                "unit": "um",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PMMA",
+        "filler_name": "TiO2",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "T8": {
+                "value": 120.7,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "mean distance between agglomerates": {
+                "value": 3.78,
+                "unit": "um",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 1,
+        "matrix_name": "PMMA",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "T8": {
+                "value": 116.4,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "mean distance between agglomerates": {
+                "value": "N/A",
+                "unit": "um",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 1,
+        "matrix_name": "PMMA",
+        "filler_name": "TiO2",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "T8": {
+                "value": 113.8,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "mean distance between agglomerates": {
+                "value": 3.98,
+                "unit": "um",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PMMA",
+        "filler_name": "TiO2",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "2%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "T8": {
+                "value": 115.0,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "mean distance between agglomerates": {
+                "value": 3.84,
+                "unit": "um",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 1,
+        "matrix_name": "PMMA",
+        "filler_name": "TiO2",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "3%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "T8": {
+                "value": 110.5,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "mean distance between agglomerates": {
+                "value": 4.16,
+                "unit": "um",
+                "conditions": []
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PMMA",
+        "filler_name": "TiO2",
+        "filler_description": "micro",
+        "composition": {
+            "amount": "3%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "T8": {
+                "value": 116.6,
+                "unit": "\u00b0C",
+                "conditions": []
+            },
+            "mean distance between agglomerates": {
+                "value": 4.6,
+                "unit": "um",
+                "conditions": []
+            }
+        }
+    }
+]

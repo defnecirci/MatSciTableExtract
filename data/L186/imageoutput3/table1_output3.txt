@@ -1,0 +1,167 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "PP",
+        "filler_name": "none",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "0.0%",
+            "type": "not specified"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "Young's modulus": {
+                "value": 910,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "yield strength": {
+                "value": 28,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "elongation at break": {
+                "value": 810,
+                "unit": "%",
+                "conditions": []
+            },
+            "absorbed energy per thickness": {
+                "value": 3.09,
+                "unit": "J/cm",
+                "conditions": []
+            },
+            "crystallization temperature": {
+                "value": 390,
+                "unit": "K",
+                "conditions": [
+                    {
+                        "type": "cooling speed",
+                        "value": -10,
+                        "unit": "K/min"
+                    }
+                ]
+            },
+            "isothermal crystallization half-time": {
+                "value": ">120",
+                "unit": "min",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 413,
+                        "unit": "K"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PP",
+        "filler_name": "graphite",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "2.8%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "melt extrusion",
+        "properties": {
+            "Young's modulus": {
+                "value": 1300,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "yield strength": {
+                "value": "N/A",
+                "unit": "MPa",
+                "conditions": []
+            },
+            "elongation at break": {
+                "value": 8,
+                "unit": "%",
+                "conditions": []
+            },
+            "absorbed energy per thickness": {
+                "value": 0.84,
+                "unit": "J/cm",
+                "conditions": []
+            },
+            "crystallization temperature": {
+                "value": 402,
+                "unit": "K",
+                "conditions": [
+                    {
+                        "type": "cooling speed",
+                        "value": -10,
+                        "unit": "K/min"
+                    }
+                ]
+            },
+            "isothermal crystallization half-time": {
+                "value": 9.5,
+                "unit": "min",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 413,
+                        "unit": "K"
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "PP",
+        "filler_name": "graphite",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "2.5%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "SSSP",
+        "properties": {
+            "Young's modulus": {
+                "value": 1870,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "yield strength": {
+                "value": 43,
+                "unit": "MPa",
+                "conditions": []
+            },
+            "elongation at break": {
+                "value": 560,
+                "unit": "%",
+                "conditions": []
+            },
+            "absorbed energy per thickness": {
+                "value": 1.21,
+                "unit": "J/cm",
+                "conditions": []
+            },
+            "crystallization temperature": {
+                "value": 411,
+                "unit": "K",
+                "conditions": [
+                    {
+                        "type": "cooling speed",
+                        "value": -10,
+                        "unit": "K/min"
+                    }
+                ]
+            },
+            "isothermal crystallization half-time": {
+                "value": 3.6,
+                "unit": "min",
+                "conditions": [
+                    {
+                        "type": "temperature",
+                        "value": 413,
+                        "unit": "K"
+                    }
+                ]
+            }
+        }
+    }
+]

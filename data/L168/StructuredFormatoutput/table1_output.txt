@@ -1,0 +1,147 @@
+[
+    {
+        "sample_id": 1,
+        "matrix_name": "PVDF",
+        "filler_name": "BT-Ag",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "20%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric constant at 1 kHz": {
+                "value": 13.6,
+                "unit": "unitless"
+            },
+            "loss tangent at 1 kHz": {
+                "value": 0.03,
+                "unit": "unitless"
+            },
+            "dielectric constant at 100 kHz": {
+                "value": 12.5,
+                "unit": "unitless"
+            },
+            "loss tangent at 100 kHz": {
+                "value": 0.05,
+                "unit": "unitless"
+            }
+        }
+    },
+    {
+        "sample_id": 2,
+        "matrix_name": "PVDF",
+        "filler_name": "BT-Ag",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "40%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric constant at 1 kHz": {
+                "value": 20.6,
+                "unit": "unitless"
+            },
+            "loss tangent at 1 kHz": {
+                "value": 0.03,
+                "unit": "unitless"
+            },
+            "dielectric constant at 100 kHz": {
+                "value": 18.8,
+                "unit": "unitless"
+            },
+            "loss tangent at 100 kHz": {
+                "value": 0.05,
+                "unit": "unitless"
+            }
+        }
+    },
+    {
+        "sample_id": 3,
+        "matrix_name": "PVDF",
+        "filler_name": "BT-Ag",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "60%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric constant at 1 kHz": {
+                "value": 54.0,
+                "unit": "unitless"
+            },
+            "loss tangent at 1 kHz": {
+                "value": 0.06,
+                "unit": "unitless"
+            },
+            "dielectric constant at 100 kHz": {
+                "value": 46.0,
+                "unit": "unitless"
+            },
+            "loss tangent at 100 kHz": {
+                "value": 0.07,
+                "unit": "unitless"
+            }
+        }
+    },
+    {
+        "sample_id": 4,
+        "matrix_name": "PVDF",
+        "filler_name": "BT-Ag",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "70%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric constant at 1 kHz": {
+                "value": 94.3,
+                "unit": "unitless"
+            },
+            "loss tangent at 1 kHz": {
+                "value": 0.06,
+                "unit": "unitless"
+            },
+            "dielectric constant at 100 kHz": {
+                "value": 81.0,
+                "unit": "unitless"
+            },
+            "loss tangent at 100 kHz": {
+                "value": 0.06,
+                "unit": "unitless"
+            }
+        }
+    },
+    {
+        "sample_id": 5,
+        "matrix_name": "PVDF",
+        "filler_name": "BT-Ag",
+        "filler_description": "not specified",
+        "composition": {
+            "amount": "80%",
+            "type": "wt"
+        },
+        "particle_surface_treatment_name": "not specified",
+        "properties": {
+            "dielectric constant at 1 kHz": {
+                "value": 160.0,
+                "unit": "unitless"
+            },
+            "loss tangent at 1 kHz": {
+                "value": 0.11,
+                "unit": "unitless"
+            },
+            "dielectric constant at 100 kHz": {
+                "value": 127.3,
+                "unit": "unitless"
+            },
+            "loss tangent at 100 kHz": {
+                "value": 0.06,
+                "unit": "unitless"
+            }
+        }
+    }
+]

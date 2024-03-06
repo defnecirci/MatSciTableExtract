@@ -1,0 +1,34 @@
+
+****** Result for Image/Page 1 ******
+Table 1
+Summary of Tg, and quality of dispersion for two samples of each type of composite.
+Type of sample
+2 wt% modified Ti02
+in PMMA
+PMMA
+2 Ti02 in PMMA
+3 Ti02 in PMMA
+Sample Tg (oc)
+1
+2
+1
+1
+2
+1
+2
+119.2 ± 0.47
+120.7 ± 1.58
+116.4 ± 1.07
+113.8 ± 0.55
+115.0 ± 0.65
+110.5 ± 0.78
+116.6 ± 0.69
+A mean distance between
+agglomerates (gm)
+4.13 ± 0.25
+3.78 ± 0.18
+N/A
+3.98 ± 0.03
+3.84 ± 0.33
+4.16±0.14
+4.60 ± 0.29
