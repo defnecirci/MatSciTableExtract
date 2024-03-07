@@ -3,7 +3,7 @@
         "sample_id": 1,
         "matrix_name": "XLPE",
         "filler_name": "none",
-        "filler description":"not sepcified",
+        "filler description":"not specified",
         "composition": {
             "amount": "0.0%",
             "type": "not specified"

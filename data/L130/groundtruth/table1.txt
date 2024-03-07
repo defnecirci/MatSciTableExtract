@@ -19,7 +19,7 @@
         "sample_id": 2,
         "matrix_name": "PI",
         "filler_name": "OFG",
-        "filler description":"not sepcifeid",
+        "filler description":"not specified",
         "composition": {
             "amount": "3%",
             "type": "wt"
@@ -67,7 +67,7 @@
         "sample_id": 5,
         "matrix_name": "PI",
         "filler_name": "OFG",
-        "filler description":"not sepcifeid",
+        "filler description":"not specified",
         "composition": {
             "amount": "15%",
             "type": "wt"
