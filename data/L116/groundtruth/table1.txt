@@ -53,8 +53,13 @@
         "filler_name": "12Me-MMT",
         "filler description":"not specified",
         "composition": {
+<<<<<<< HEAD
             "amount": 6%,
             "type": "wt"
+=======
+            "amount": 6,
+            "type": "wt%"
+>>>>>>> 054472995f4728f1727245d2981f066114d7f64f
         },
         "particle_surface_treatment_name": "not specified",
         "properties": {

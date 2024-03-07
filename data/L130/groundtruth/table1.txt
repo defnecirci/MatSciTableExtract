@@ -19,7 +19,11 @@
         "sample_id": 2,
         "matrix_name": "PI",
         "filler_name": "OFG",
+<<<<<<< HEAD
         "filler description":"not specified",
+=======
+        "filler description":"not sepcifeid",
+>>>>>>> 054472995f4728f1727245d2981f066114d7f64f
         "composition": {
             "amount": "3%",
             "type": "wt"
@@ -67,7 +71,11 @@
         "sample_id": 5,
         "matrix_name": "PI",
         "filler_name": "OFG",
+<<<<<<< HEAD
         "filler description":"not specified",
+=======
+        "filler description":"not sepcifeid",
+>>>>>>> 054472995f4728f1727245d2981f066114d7f64f
         "composition": {
             "amount": "15%",
             "type": "wt"
