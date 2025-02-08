@@ -1,0 +1,7 @@
+numpy
+scipy
+python-Levenshtein
+openai
+requests
+matplotlib
+seaborn
