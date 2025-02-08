@@ -115,3 +115,7 @@ If you use this work, please cite:
   publisher={Springer}
 }
 ```
+
+## License
+
+This project is licensed under the MIT License.
